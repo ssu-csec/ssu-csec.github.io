@@ -1,0 +1,50 @@
+- group: 
+  members:
+
+  - name: Arvind S Raj
+    image: /assets/images/arvind.png
+    site: https://arvindsraj.com/
+
+  - name: Huijun Tay
+    image: /assets/images/thuijun.jpg
+
+  - name: Yihui Zeng
+    image: /assets/images/kyle.jpg
+    site: https://www.kylebot.net
+
+  - name: Jayakrishna Menon Vadayath
+    image: /assets/images/Jay.jpg
+
+  - name: Wil Gibbs
+    image: /assets/images/wil_gibbs.jpg
+    site: https://WGibbs15.github.io
+
+  - name: Zion L. Basque
+    image: /assets/images/zion.jpeg
+    site: http://zionbasque.com
+
+  - name: Ati Priya Bajaj
+    image: /assets/images/atipriya.jpg
+
+  - name: Zhuoer Lyu
+    image: /assets/images/zhuoer.jpg
+  
+  - name: Fangzhou Dong
+    image: /assets/images/bonnie.jpg
+
+  - name: Hulin Wang
+    image: /assets/images/hulin.png
+  
+  - name: Mitchell Zakocs
+    image: /assets/images/mitch.jpg
+
+  - name: Justin Miller
+    image: /assets/images/justin.jpg
+
+  - name: Pulkit Singh Singaria
+    image: /assets/images/x3ero0.jpg
+    site: https://x3ero0.tech/
+  
+  - name: Xiang Mei
+    image: assets/images/Xiang_Mei.jpg
+    size: https://n132.github.io/about/

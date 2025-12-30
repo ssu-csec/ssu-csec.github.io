@@ -1,0 +1,77 @@
+---
+layout: default
+title: Projects
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Global Research Laboratory</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body class="projects-body">
+  <div class="projects-container">
+    <h1 class="projects-title">{{ page.title }}</h1>
+
+    <section class="projects-current">
+      <h2 class="projects-subtitle">Current Projects</h2>
+      <table class="projects-table">
+        <thead>
+          <tr>
+            <th>No.</th>
+            <th>Title</th>
+            <th>Program</th>
+            <th>Funding Source</th>
+            <th>Duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for project in site.data.projects.current %}
+          <tr>
+            <td>{{ project.index }}</td>
+            <td>
+              {{ project.title }}<br>
+              <span class="projects-description">{{ project.description }}</span>
+            </td>
+            <td>{{ project.program }}</td>
+            <td>{{ project.funding }}</td>
+            <td>{{ project.duration }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+
+    <section class="projects-past">
+      <h2 class="projects-subtitle">Past Projects</h2>
+      <table class="projects-table">
+        <thead>
+          <tr>
+            <th>No.</th>
+            <th>Title</th>
+            <th>Program</th>
+            <th>Funding Source</th>
+            <th>Duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for project in site.data.projects.past %}
+          <tr>
+            <td>{{ project.index }}</td>
+            <td>
+              {{ project.title }}<br>
+              <span class="projects-description">{{ project.description }}</span>
+            </td>
+            <td>{{ project.program }}</td>
+            <td>{{ project.funding }}</td>
+            <td>{{ project.duration }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>

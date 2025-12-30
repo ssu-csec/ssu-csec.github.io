@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: People
+  link: /people.html
+- name: Publications
+  link: /publications.html
+- name: Projects
+  link: /projects.html
+- name: Gallery
+  link: https://www.instagram.com/ssu.csec/
+- name: Contact
+  link: /contact.html

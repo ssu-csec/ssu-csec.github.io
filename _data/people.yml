@@ -1,0 +1,294 @@
+- group: Faculty
+  members:
+
+  - name: Prof. Jeonghyun Yi
+    title: Professor
+    image: /assets/images_csec/yi.jpg
+    site: /cv_yi.html
+
+  - name: Prof. Haehyun Cho
+    title: Associate Professor
+    image: /assets/images_csec/cho_profile.png
+    site: https://haehyun.github.io/
+
+- group: PhD Students
+  members:
+
+  - name: Kyungmin Sim
+    image: /assets/images_csec/phd_students/Kyungmin_Sim.png
+
+  - name: Minho Kim
+    image: /assets/images_csec/phd_students/Minho_Kim.jpg
+
+  - name: Younghun Ban
+    image: /assets/images_csec/phd_students/Younghun_Ban.jpg
+
+  - name: Dongho Lee
+    image: /assets/images_csec/phd_students/Dongho_Lee.png
+
+  - name: Sehwan O
+    image: /assets/images_csec/phd_students/Sehwan_O.jpg
+
+  - name: Yubin Im
+    image: /assets/images_csec/phd_students/Yubin_Im.jpg
+
+- group: Master's Students
+  members:
+
+  - name: Gwangyeol Lee
+    image: /assets/images_csec/ms_students/Gwangyeol_Lee.jpg
+
+  - name: Dongwoo Kim
+    image: /assets/images_csec/ms_students/DongWoo_Kim.jpg
+
+- group: Undergraduate Students
+  members:
+
+  - name: Myeonghyun Kim
+    image: /assets/images_csec/bs_students/Myeonghyun_Kim.jpg
+
+  - name: Suraksha
+    image: /assets/images_csec/bs_students/Suraksha.jpg
+
+  - name: Geonhee Lee
+    image: /assets/images_csec/bs_students/Geonhee_Lee.jpg
+
+  - name: Hyeok Jang
+    image: /assets/images_csec/bs_students/Hyeok_Jang.jpg
+
+  - name: Jisun Han
+    image: /assets/images_csec/bs_students/Jisun_Han.jpg
+
+  - name: Mirae Yim
+    image: /assets/images_csec/bs_students/Mirae_Yim.jpg
+
+  - name: Jisoo Kim
+    image: /assets/images_csec/bs_students/Jisoo_Kim.jpg
+
+- group: Interns
+  members:
+
+- group: Alumni
+  members:
+
+  - name: Taeyang Eom
+    title: MS. (2010)
+    subtitle: 핸디 소프트
+    email: appler@handysoft.co.kr
+    image: /assets/images_csec/alumni/Taeyang_Eom.jpg
+
+  - name: Kyungwhan Park
+    title: MS. (2011)
+    subtitle: 소 만 사
+    email: khpark@somansa.com
+    image: /assets/images_csec/alumni/Kyungwhan_Park.jpg
+
+  - name: Gunil Ma
+    title: MS. (2011)
+    subtitle: 탈레스코리아
+    email: gunil.ma@thales-esecurity.com
+    image: /assets/images_csec/alumni/Gunil_Ma.jpg
+
+  - name: Hyeongchan Lee
+    title: MS. (2012)
+    subtitle: 국가보안기술연구소
+    email: lee0708@nsr.re.kr
+    image: /assets/images_csec/alumni/Hyeong-Chan_Lee.jpg
+
+  - name: Siwan Kim
+    title: MS. (2012)
+    subtitle: 현대오토에버
+    email: kimsiwan@hyundai-autoever.com
+    image: /assets/images_csec/alumni/Siwan_Kim.jpg
+
+  - name: Jinhyuk Jung
+    title: MS. (2013)
+    subtitle: 국가보안기술연구소
+    email: popthink@nsr.re.kr
+    image: /assets/images_csec/alumni/Jinhyuk_Jung.jpg
+
+  - name: Hyunyi Yi
+    title: MS. (2013)
+    subtitle: 국가보안기술연구소
+    email: yihyunyi@nsr.re.kr
+    image: /assets/images_csec/alumni/Hyunyi_Yi.jpg
+
+  - name: Taejin Kim
+    title: MS. (2013)
+    subtitle: 이스트소프트
+    email: tjkim@estsoft.com
+    image: /assets/images_csec/alumni/Taejin_Kim.jpg
+
+  - name: Yuxue Piao
+    title: MS. (2013)
+    subtitle: Cyber Security Research Center
+    email: qianbin127@gmail.com
+    image: /assets/images_csec/alumni/Yuxue_Piao.jpg
+
+  - name: Kangkyu Lee
+    title: MS. (2014)
+    subtitle: 삼성SDS
+    email: kangkyu.lee@samsung.com
+    image: /assets/images_csec/alumni/Kangkyu_Lee.jpg
+
+  - name: Jongwon Choi
+    title: MS. (2015)
+    subtitle: 국가보안기술연구소
+    email: jwchoi5790@nsr.re.kr
+    image: /assets/images_csec/alumni/Jongwon_Choi.jpg
+
+  - name: Youngjin Park
+    title: MS. (2016)
+    subtitle: 국가보안기술연구소
+    email: yjpark9965@nsr.re.kr
+    image: /assets/images_csec/alumni/Youngjin_Park.jpg
+
+  - name: Taejoo Cho
+    title: MS. (2016)
+    subtitle: 국가보안기술연구소
+    email: taejoo90@gmail.com
+    image: /assets/images_csec/alumni/Taejoo_Cho.jpg
+
+  - name: Jiwoong Bang
+    title: MS. (2016)
+    subtitle: 매쓰홀릭
+    email: jwbang@matholic.net
+    image: /assets/images_csec/alumni/Jiwoong_Bang.jpg
+
+  - name: Sungryoung Kim
+    title: MS. (2016)
+    subtitle: 네이버
+    email: maekchi@gmail.com
+    image: /assets/images_csec/alumni/Sungryoung_Kim.jpg
+
+  - name: Geonbae Na
+    title: MS. (2016)
+    subtitle: 한국인터넷진흥원
+    email: geanoeban@kisa.or.kr
+    image: /assets/images_csec/alumni/Geonbae_Na.jpg
+
+  - name: Myeongju Ji
+    title: MS. (2016)
+    subtitle: 티맥스소프트
+    email: myeongju-ji@tmax.co.kr
+    image: /assets/images_csec/alumni/Myeongju_Ji.jpg
+
+  - name: Hyunki Kim
+    title: MS. (2017)
+    subtitle: 티맥스소프트
+    email: hitechnet92@gmail.com
+    image: /assets/images_csec/alumni/Hyunki_Kim.jpg
+
+  - name: Taeyong Park
+    title: MS. (2017)
+    subtitle: 네이버
+    email: park.taeyong@navercorp.com
+    image: /assets/images_csec/alumni/Taeyong_Park.jpg
+
+  - name: Sunwoo Shin
+    title: MS. (2017)
+    subtitle: 네이버
+    email: sunwoo.shin@navercorp.com
+    image: /assets/images_csec/alumni/Sunwoo_Shin.jpg
+
+  - name: Woojong Yoo
+    title: MS. (2017)
+    subtitle: 국가보안기술연구소
+    email: woojongyoo@nsr.re.kr
+    image: /assets/images_csec/alumni/Woo_Jong_Yoo.jpg
+
+  - name: Sungtae Kim
+    title: MS. (2017)
+    subtitle: 삼성SDS
+    email: setmenu.kim@samsung.com
+    image: /assets/images_csec/alumni/Sung_Tae_Kim.jpg
+
+  - name: Minkoo Kang
+    title: MS. (2018)
+    subtitle: 소만사
+    email: minku1024@gmail.com
+    image: /assets/images_csec/alumni/Minkoo_Kang.jpg
+
+  - name: Joonsang Yoo
+    title: MS. (2018)
+    subtitle: 쿠팡
+    email: phoibos92@gmail.com
+    image: /assets/images_csec/alumni/Joonsang_Yoo.jpg
+
+  - name: Jongsu Lim
+    title: MS. (2018)
+    subtitle: 버즈빌
+    email: jongsu253@gmail.com
+    image: /assets/images_csec/alumni/Jongsu_Lim.jpg
+
+  - name: Kichang Kim
+    title: MS. (2019)
+    subtitle: 티맥스소프트
+    email: kckim7008@gmail.com
+    image: /assets/images_csec/alumni/Kichang_Kim.jpg
+
+  - name: Jinsung Kim
+    title: MS. (2020)
+    subtitle: 숭실대학교 산학협력단
+    email: okokabv@gmail.com
+    image: /assets/images_csec/alumni/Jinsung_Kim.jpg
+
+  - name: Eunbyeol Ko
+    title: MS. (2021)
+    subtitle: 한국전자기술연구원
+    email: kongstar159@gmail.com
+    image: /assets/images_csec/alumni/Eunbyeol_Ko.jpg
+
+  - name: Yonggu Shin
+    title: MS. (2021)
+    subtitle: 스틸리언
+    email: tls09611@naver.com
+    image: /assets/images_csec/alumni/Yonggu_Shin.jpg
+
+  - name: Sunjun Lee
+    title: MS. (2021)
+    subtitle: 스틸리언
+    email: starj1024@gmail.com
+    image: /assets/images_csec/alumni/Sunjun_Lee.jpg
+
+  - name: Geochang Jeon
+    title: MS. (2021)
+    subtitle: 중앙보훈병원
+    email: jkch0213@gmail.com
+    image: /assets/images_csec/alumni/Geochang_Jeon.jpg
+
+  - name: Minseong Choi
+    title: MS. (2023)
+    subtitle: 울산과학기술원
+    email: 903cms@naver.com
+    image: /assets/images_csec/alumni/Minseong_Choi.jpg
+
+  - name: Honyeong Heo
+    title: MS. (2024)
+    subtitle: 이글루코퍼레이션
+    email: arseny1013@gmail.com
+    image: /assets/images_csec/alumni/Honyeong_Heo.jpg
+
+  - name: Byeori Kim
+    title: MS. (2024)
+    subtitle: CJ올리브네트웍스
+    email: 99kbr11@gmail.com
+    image: /assets/images_csec/alumni/Byeori_Kim.jpg
+
+  - name: Dongyeon Lee
+    title: MS. (2024)
+    subtitle: 엔키화이트햇
+    email: xxerrenn@gmail.com
+    image: /assets/images_csec/alumni/Dongyeon_Lee.jpg
+
+  - name: Jihwan Jeon
+    title: MS. (2025)
+    subtitle: 
+    email: jeon0591@naver.com
+    image: /assets/images_csec/MS_Students/Jihwan_Jeon.png
+
+  - name: Daegyeom Kim
+    title: MS. (2025)
+    subtitle: 
+    email: daegyoem88@gmail.com
+    image: /assets/images_csec/MS_Students/Daegyeom_Kim.jpg

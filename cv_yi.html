@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Director — Global Research Laboratory</title>
+  <style>
+    /* Variables */
+    :root {
+      --primary-color: #005b8f;
+      --accent-color: #ff8c00;
+      --bg-light: #f9f9f9;
+      --card-bg: #ffffff;
+      --text-color: #333333;
+      --font-base: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    /* Reset & Base */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: var(--font-base);
+      background: var(--bg-light);
+      color: var(--text-color);
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+    h1, h2, h3 {
+      color: var(--primary-color);
+      margin-bottom: 16px;
+      font-weight: 500;
+    }
+    p { margin-bottom: 16px; }
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    .director-title {
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+    .director-subtitle {
+      font-size: 1rem;
+      color: #666666;
+    }
+    /* Section Titles */
+    .section-title {
+      display: flex;
+      align-items: center;
+      margin: 48px 0 24px;
+      font-size: 1.5rem;
+      position: relative;
+    }
+    .section-title::before {
+      content: '';
+      width: 4px;
+      height: 100%;
+      background: var(--accent-color);
+      position: absolute;
+      left: -20px;
+      top: 0;
+      border-radius: 2px;
+    }
+    /* Card-style sections */
+    section {
+      background: var(--card-bg);
+      padding: 32px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    /* Introduction */
+    .intro {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      gap: 24px;
+      align-items: start;
+    }
+    .intro img {
+      width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .intro .text {
+      text-align: justify;
+      font-size: 0.95rem;
+    }
+    /* Lists */
+    ul {
+      list-style-type: disc;
+      padding-left: 24px;
+      font-size: 0.95rem;
+    }
+    ul li {
+      margin-bottom: 8px;
+    }
+    /* Responsive */
+    @media (max-width: 640px) {
+      .intro {
+        grid-template-columns: 1fr;
+      }
+      .section-title {
+        margin: 32px 0 16px;
+        font-size: 1.25rem;
+      }
+      header {
+        margin-bottom: 32px;
+      }
+      .director-title {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="director-title">Director</h1>
+      <p class="director-subtitle">Global Research Laboratory</p>
+    </header>
+
+    <section>
+      <div class="section-title">Introduction</div>
+      <div class="intro">
+        <img src="/assets/images_csec/yi.jpg" alt="Professor Jeong Hyun Yi">
+        <div class="text">
+          <p>Jeong Hyun Yi is a Professor in the School of Software and the Director of the Cyber Security Research Center (CSEC) at Soongsil University, Seoul, Korea. He received the B.S. and M.S. degrees in computer science from Soongsil University, Seoul, Korea, in 1993 and 1995, respectively, and the Ph.D. degree in information and computer science from the University of California, Irvine, in 2005. He was a Principal Researcher at Samsung Advanced Institute of Technology, Korea, from 2005 to 2008, and a member of research staff at Electronics and Telecommunications Research Institute (ETRI), Korea, from 1995 to 2001. Between 2000 and 2001, he was a guest researcher at National Institute of Standards and Technology (NIST), Maryland, U.S. His research interests include mobile security and privacy, IoT security, and applied cryptography.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">Selected Publications</div>
+      <ul>
+        <li>Taejoo Cho, Hyunkim Kim, and Jeong Hyun Yi, "Security Assessment of Code Obfuscation Based on Dynamic Monitoring in Android Things", IEEE Access (ISSN: 2169-3536), Vol.5, No.1, pp.6361-6371, May 2017 (IF: 3.244)</li>
+        <li>Nitesh Saxena and Jeong H. Yi, "Noninteractive Self-Certification for Long-Lived Mobile Ad Hoc Networks", IEEE Transactions on Information Forensics and Security (ISSN: 1556-6013), Vol. 4, No. 4, pp.946-955, Dec. 2009 (IF:4.332)</li>
+        <li>Nitesh Saxena, Gene Tsudik, and Jeong H. Yi, "Efficient Node Admission and Certificateless Secure Communication in Short-lived MANETs", IEEE Transactions on Parallel and Distributed Systems (ISSN: 1045-9219), Vol. 20, No. 2, pp.158-170, Feb. 2009 (IF:4.181)</li>
+        <li>Nitesh Saxena, Gene Tsudik, and Jeong H. Yi, "Threshold Cryptography in P2P and MANETs: the Case of Access Control", Computer Networks (ISSN: 1389-1286), Vol. 51, No. 12, pp.3632-3649, Aug. 2007 (IF:2.516)</li>
+        <li>Claude Castelluccia, Nitesh Saxena, and Jeong H. Yi, "Robust Self-Keying Mobile Ad-Hoc Networks", Computer Networks (ISSN: 1389-1286), Vol. 51, No. 4, pp.1169-1182, Mar. 2007 (IF:2.516)</li>
+      </ul>
+    </section>
+
+    <section>
+      <div class="section-title">Community Services</div>
+      <ul>
+        <li>한국정보보호학회 상임이사/논문지 편집위원 (2006–Present)</li>
+        <li>삼성전자 첨단기술연구소 외래강사 (2012–Present)</li>
+        <li>삼성전자 제품보안협의회 자문위원 (2014–Present)</li>
+        <li>행정자치부 전자정부지원사업 심의위원 (2017–Present)</li>
+        <li>한국인터넷진흥원 개인정보보호 관리체계 인증위원 (2015–Present)</li>
+        <li>국가정보원 보안관리실태 평가위원 (2009–2014)</li>
+        <li>금융감독원 인증방법 평가위원 (2010–2015)</li>
+        <li>한국은행 전산정보국 자문교수 (2012–2014)</li>
+      </ul>
+    </section>
+
+  </div>
+</body>
+</html>
