@@ -1,0 +1,1390 @@
+# 순서 : international (journal - conferences) - domestic ((journal - conferences))순
+
+- year: 2025
+  publications:
+    - title: "하드웨어 및 소프트웨어 기반 안티탬퍼링 기술의 종합 평가 방안 조사"
+      authors: "이동호, 반영훈, 김민호, 심경민, 장혁, 한지선, 임재덕, 조해현"
+      info: "정보보호학회논문지 (ISSN: 1598-3986), Vol.35 No.2, pp.441-461"
+      time: 202504
+      venue: "정보보호학회논문지"
+      topic: "Anti-Tampering Technologies · Evaluation Framework"
+      type: Journal
+
+    - title: "데이터 흐름분석을 통한 심볼이 제거된 임베디드 시스템의 취약점 탐지"
+      authors: "박성준, 서창배, 류한얼, 조병모, 조해현"
+      info: "한국정보보호학회 논문지 (ISSN: 2288-2715), Volume 35 Issue 2, pp.287-298, Feb. 2025"
+      time: 202502
+      venue: "한국정보보호학회 논문지"
+      topic: "Embedded Systems Vulnerability and Data Flow Analysis"
+      type: Journal
+
+    - title: "악성 파일 탐지 모델 취약성 분석 및 방어 프레임워크"
+      authors: "김명현, 임유빈, 서창배, 강성현, 조병모, 조해현"
+      info: "한국정보보호학회 논문지 (ISSN: 1598-3986), Volume 35 Issue 2, pp.265-275, Jan. 2025"
+      time: 202501
+      venue: "한국정보보호학회 논문지"
+      topic: "Malware Detection Models and Robustness Analysis"
+      type: Journal
+
+    - title: "Air-Gap 환경에서의 전자기 및 음향 신호를 이용한 데이터 송수신"
+      authors: "이동호, 김대겸, 김동우, 이준오, 강성현, 조병모, 조해현"
+      info: "한국정보보호학회 논문지 (ISSN: 1598-3986), Volume 35 Issue 2, pp.369-381, Apr. 30 2025"
+      time: 20250430
+      venue: "한국정보보호학회 논문지"
+      topic: "Air-Gap Communication and EM & Acoustic Signals"
+      type: Journal
+
+- year: 2024
+  publications:
+    - title: "Combating Web Tracking: Analyzing Web Tracking Technologies for User Privacy"
+      authors: "Kyungmin Sim, Honyeong Heo, Haehyun Cho"
+      info: "Multidisciplinary Digital Publishing Institute - Feature Internet (ISSN: 1999-5903), 10/363"
+      time: 20241005
+      venue: "Feature Internet"
+      topic: "Web Tracking and Privacy"
+      type: Journal
+
+    - title: "Pinicorn: Towards Automated Dynamic Analysis for Unpacking 32-Bit PE Malware"
+      authors: "Jeong Hyun Yi, Haehyun Cho, Minho Kim, Gwangyeol Lee"
+      info: "Science Citation Index Expanded (ISSN: 2079-9292), Article No. 2081 (Vol.13, No.11)"
+      time: 202405
+      venue: "Science Citation Index Expanded"
+      topic: "Dynamic Malware Analysis"
+      type: Journal
+
+    - title: "Hybrid Dynamic Analysis for Android Malware Protected by Anti-Analysis Techniques with DoolDA"
+      authors: "Sunjun Lee, YongGu Shin, Minseong Choi, Heahyun Jo, Jeong Hyun Yi"
+      info: "Journal of Internet Technology (ISSN: 195-213), Vol.25, No.2"
+      time: 202403
+      venue: "Journal of Internet Technology"
+      topic: "Android Malware Analysis and Anti-Analysis"
+      type: Journal
+
+    - title: "An Empirical Study on the Effectiveness of Adversarial Examples in Malware Detection"
+      authors: "Young Hun Ban, Myeonghyun Kim, Heahyun Jo"
+      info: "Computational Memory Lab (ISSN: 3535-3563), Vol.139, No.3"
+      time: 202403
+      venue: "Computational Memory Lab"
+      topic: "Adversarial Examples and Malware Detection"
+      type: Journal
+
+    - title: "DryJIN: Detecting Information Leaks in Android Applications"
+      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, Hae Hyun Jo, Dong Hoon Lee"
+      info: "IFIP Information Security &‌ Privacy Conference &‌ Privacy Conference"
+      time: 202406
+      venue: "IFIP Security &‌ Privacy Conference"
+      topic: "Information Leak Detection"
+      type: Conferences
+
+    - title: "Satellite: Effective and Efficient Stack Memory Protection Scheme for Unsafe Programming Languages"
+      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, HeaHyun Jo, Dong Hoon Lee"
+      info: "IFIP Information Security Conference &‌ Privacy Conference"
+      time: 202406
+      venue: "IFIP Security &‌ Privacy Conference"
+      topic: "Memory Protection and Unsafe Languages"
+      type: Conferences
+
+    - title: "OCR기반 안드로이드 비싱애플리케이션탐지기법"
+      authors: "김대겸, 조해현"
+      info: "한국정보보호학회 하계학술대회, Vol.34 No.1, Jun. 2024"
+      time: 202406
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Android Phishing Detection and OCR"
+      type: Conferences
+
+    - title: "신뢰할 수 있는 환경 기반 딥러닝 연구 동향 분석"
+      authors: "임유빈, 조해현"
+      info: "한국정보보호학회 하계학술대회, Vol.34 No.1, Jun. 2024"
+      time: 202406
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Trusted Execution and Deep Learning"
+      type: Conferences
+
+    - title: "악성 파일 탐지 모델 취약성 분석 및 방어 프레임워크"
+      authors: "김명현, 조해현"
+      info: "한국정보보호학회 하계학술대회, Vol.34 No.1, Jun. 2024"
+      time: 202406
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Malware Detection and Robustness Analysis"
+      type: Conferences
+    
+- year: 2023
+  publications:
+    - title: "Beyond Phish: Toward Detecting Fraudulent e-Commerce Websites at Scale"
+      authors: "Haehyun Cho, Adam Oest, Zhuoer Lyu, Wei Wang, Jorij Abraham"
+      info: "2023 IEEE Symposium on Security and Privacy (ISSN: 2375-1207), pp.2566-2583"
+      time: 202305
+      venue: "IEEE S&P"
+      topic: "Phishing Detection and Web Fraud"
+      type: Conferences
+
+    - title: "FIDS: Filtering-Based Intrusion Detection System for In-Vehicle CAN"
+      authors: "Seungmin Lee, Hyunghoon Kim, Haehyun Cho, Hyojin Jo"
+      info: "Intelligent Automation & Soft Computing (ISSN: 1079-8587), Vol.37, No.3, pp.2941-2954"
+      time: 202309
+      venue: "Intelligent Automation & Soft Computing"
+      topic: "Intrusion Detection and In-Vehicle Networks"
+      type: Journal
+
+    - title: "SMINER: Detecting Unrestricted and Misimplemented Behaviors of Software Systems Based on Unit Test Cases"
+      authors: "Kyungmin Sim, Sunjun Lee, Geochang Jeon, Jeong Hyun Yi, Heahyun Cho"
+      info: "Computers, Materials & Continua (ISSN: 1546-2218), Vol.75, No.2, pp.3257-3274"
+      time: 202303
+      venue: "Computers, Materials & Continua"
+      topic: "Behavior Mining and Software Testing"
+      type: Journal
+
+    - title: "Docurity: A New Cryptographic Primitive for Collaborative Cloud Systems"
+      authors: "Byeori Kim, Minseong Choi, Taek-Young Youn, Jeong Hyun Yi, Haehyun Cho"
+      info: "Intelligent Automation & Soft Computing (ISSN: 1079-8587), Vol.36, No.3, pp.3725-3742"
+      time: 202303
+      venue: "Intelligent Automation & Soft Computing"
+      topic: "Cryptographic Primitives and Cloud Security"
+      type: Journal
+
+    - title: "Augmenting Android Malware Using Conditional Variational Autoencoder for the Malware Family Classification"
+      authors: "Younghoon Ban, Jeong Hyun Yi, Haehyun Cho"
+      info: "Computer Systems Science and Engineering (ISSN: 0267-6192), Vol.46, No.2, pp.2215-2230"
+      time: 202302
+      venue: "Computer Systems Science & Engineering"
+      topic: "Malware Classification and Variational Autoencoder"
+      type: Journal
+
+    - title: "Poster: De-obfuscation System for Obfuscation Techniques based on Trampoline Code"
+      authors: "Minho Kim, Jeong Hyun Yi, Heahyun Cho"
+      info: "MobiSec 2023 (The 7th International Conference on Mobile Internet Security)"
+      time: 202312
+      venue: "MobiSec 2023"
+      topic: "Code Deobfuscation"
+      type: Conferences
+
+    - title: "HW 보안 모듈을 활용한 탬퍼링 대응 기술의 검증 및 평가 방안 조사"
+      authors: "DongHo Lee, Young Hun Ban, Lim Jae Duk, HeaHyun Jo"
+      info: "KCI 정보보호학회 논문지 (ISSN: 1598-3986), Volume 34 Issue 2, pp.335-345, Dec. 2023"
+      time: 202312
+      venue: "KCI 정보보호학회 논문지"
+      topic: "Hardware Security Modules and Tampering Mitigation"
+      type: Journal
+
+    - title: "트램폴린 코드 기반의 난독화 기법을 위한 역난독화 시스템"
+      authors: "김민호, 이정현, 조해현*"
+      info: "KCI 정보보호학회 논문지 (ISSN: 1598-3986), Volume 33 Issue 6, Dec. 2023"
+      time: 202312
+      venue: "KCI 정보보호학회 논문지"
+      topic: "Trampoline Code and Deobfuscation"
+      type: Journal
+
+    - title: "웹 트래킹 탐지기술 동향"
+      authors: "심경민, 허호녕, 조해현"
+      info: "한국통신학회지(정보와통신) (ISSN: 1226-4725), Vol.40 Issue 9, pp.11–20, Aug. 2023"
+      time: 202308
+      venue: "한국통신학회지(정보와통신)"
+      topic: "Web Tracking Detection"
+      type: Journal
+
+    - title: "변형 샘플을 통한 VirusTotal 탐지 특성 연구"
+      authors: "반영훈, 오세환, 조해현"
+      info: "한국정보보호학회 하계학술대회, Vol.34 No.1, Jun. 2024"
+      time: 202406
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "VirusTotal and Evasion"
+      type: Conferences
+
+    - title: "웹상 추적 및 행태정보 수집 행위 탐지를 위한 자바스크립트 정적 오염 분석기 설계"
+      authors: "허호녕, 전지환, 심경민, 김대겸, 조해현"
+      info: "한국정보보호학회 동계학술대회, Dec. 2023"
+      time: 202312
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Web Tracking and Static Analysis"
+      type: Conferences
+
+    - title: ".NET 프레임워크 기반의 다언어 개발 플랫폼 대상 Taint Analysis 기법"
+      authors: "오세환, 조해현"
+      info: "한국정보보호학회 동계학술대회, Dec. 2023"
+      time: 202312
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Taint Analysis and .NET"
+      type: Conferences
+
+    - title: "클라우드 상에서 동적 업데이트를 지원하는 블록 암호 운영 모드"
+      authors: "조찬형, 김벼리, 조해현, 윤택"
+      info: "한국정보보호학회 동계학술대회, Dec. 2023"
+      time: 202312
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Block Cipher Modes and Cloud"
+      type: Conferences
+
+    - title: "안드로이드 보안강화를 위한 역난독화를 방지하는 첨단 난독화기법 연구"
+      authors: "이동호, 이정현, 조해현"
+      info: "한국정보보호학회 동계학술대회, Dec. 2023"
+      time: 202312
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Anti-Deobfuscation and Android Security"
+      type: Conferences
+
+    - title: "언패킹을 위한 OEP 및 API 난독화 기법에 대한 역난독화 방법 연구"
+      authors: "이광열, 김민호, 이정현, 조해현"
+      info: "한국정보보호학회 동계학술대회, Dec. 2023"
+      time: 202312
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Unpacking and Deobfuscation"
+      type: Conferences
+
+    - title: "신뢰할 수 없는 온디바이스에서 기밀 컴퓨팅을 이용한 기계 학습 동향"
+      authors: "임유빈, 조해현"
+      info: "한국정보보호학회 하계학술대회, Jun. 2023"
+      time: 202306
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Confidential Computing and ML"
+      type: Conferences
+
+    - title: "추적 스크립트 탐지를 위한 Chromium의 구조적 분석 및 탐지 기법 연구"
+      authors: "허호녕, 심경민, 조해현"
+      info: "한국정보보호학회 하계학술대회, Jun. 2023"
+      time: 202306
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Chromium and Tracking Detection"
+      type: Conferences
+
+    - title: "트램폴린 코드 기반의 난독화 기법을 위한 역난독화 시스템"
+      authors: "이광열, 김민호, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Jun. 2023"
+      time: 202306
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Trampoline Code and Deobfuscation"
+      type: Conferences
+
+    - title: "모바일 다언어 플랫폼(Xamarin) 정적 오염 분석"
+      authors: "오세환, 조해현"
+      info: "한국정보보호학회 하계학술대회, Jun. 2023"
+      time: 202306
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Static Taint Analysis and Xamarin"
+      type: Conferences
+
+    - title: "역난독화 분석을 방지하는 강력한 난독화 기법"
+      authors: "이동호, 이정현, 조해현"
+      info: "한국정보보호학회 하계학술대회, Jun. 2023"
+      time: 202306
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Obfuscation and Anti-Deobfuscation"
+      type: Conferences
+
+- year: 2022
+  publications:
+    - title: "Data Covert Channels between the Secure World and the Normal World in the ARM TrustZone Architecture"
+      authors: "Haehyun Cho"
+      info: "IEICE TIS (ISSN: 1745-1361), Vol.105, No.11, pp.1925-1927"
+      time: 202211
+      venue: "IEICE Transactions on Information and Systems"
+      topic: "TrustZone and Covert Channels"
+      type: Journal
+
+    - title: "Hiding Data in the Padding Area of Android Applications"
+      authors: "Geochang Jeon, Jeong Hyun Yi, Haehyun Cho"
+      info: "IEICE TIS (ISSN: 1745-1361), Vol.105, No.11"
+      time: 202211
+      venue: "IEICE Transactions on Information and Systems"
+      topic: "Data Hiding and Android Security"
+      type: Journal
+
+    - title: "Large-scale Analysis on Anti-Analysis Techniques in Real-world Malware"
+      authors: "Minho Kim, Haehyun Cho, Jeong Hyun Yi"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.10, pp.75802-75815"
+      time: 202207
+      venue: "IEEE Access"
+      topic: "Malware Anti-Analysis and Dynamic Analysis"
+      type: Journal
+
+    - title: "LiDAR: A Light weight Deep Learning based Malware Classifier for Edge Devices"
+      authors: "Jinsung Kim, Younghoon Ban, Geochang Jeon, Young Geun Kim, Haehyun Cho"
+      info: "Wireless Communications & Mobile Computing (ISSN: 1530-8669), Vol.2022, Article ID: 2117883"
+      time: 202206
+      venue: "Wireless Communications & Mobile Computing"
+      topic: "Edge ML and Malware Classification"
+      type: Journal
+
+    - title: "Deobfuscating Mobile Malware for Identifying Concealed Behaviors"
+      authors: "Dongho Lee, Geochang Jeon, Sunjun Lee, Haehyun Cho"
+      info: "Computers, Materials & Continua (ISSN: 1546-2218), Vol.72, No.3, pp.5909-5923"
+      time: 202204
+      venue: "Computers, Materials & Continua"
+      topic: "Malware Deobfuscation and Behavior Analysis"
+      type: Journal
+
+    - title: "CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing"
+      authors: "Penghui Zhang, Adam Oest, Haehyun Cho, Zhibo Sun, R. C. Johnson, Brad Wardman, Shaown Sarker, Alexandros Kapravelos, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupe, Gail Joon Ahn"
+      info: "IEEE Security & Privacy (ISSN: 1540-7993), Vol.20, Issue 2, Apr. 2022 (IF: 3.573)"
+      time: 202204
+      venue: "IEEE Security & Privacy"
+      topic: "Client-side Cloaking and Phishing Detection"
+      type: Journal
+
+    - title: "FAM: Featuring Android Malware for Deep Learning-based Familial Analysis"
+      authors: "Younghoon Ban, Sunjun Lee, Dokyung Song, Haehyun Cho, Jeong Hyun Yi"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.10, pp.20008–20018, Feb. 2022 (IF: 4.000)"
+      time: 202202
+      venue: "IEEE Access"
+      topic: "Familial Analysis and Deep Learning"
+      type: Journal
+
+    - title: "MAPAS: A Practical Deep Learning-based Android Malware Detection System"
+      authors: "Jinsung Kim, Younghoon Ban, Eunbyeol Ko, Haehyun Cho, Jeong Hyun Yi"
+      info: "International Journal of Information Security (ISSN: 1615-5262), Vol.21, pp.725–738, Feb. 2022 (IF: 1.988)"
+      time: 202202
+      venue: "International Journal of Information Security"
+      topic: "Android Malware Detection and Deep Learning"
+      type: Journal
+
+    - title: "I’m SPARTACUS, No, I’m SPARTACUS: Proactively Protecting Users From Phishing by Intentionally Triggering Cloaking Behavior"
+      authors: "Penghui Zhang, Zhibo Sun, Sukhwa Kyung, Hans Behrens, Zion Leonahenahe Basque, Haehyun Cho, Adam Oest, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Gail-Joon Ahn, Adam Doupe"
+      info: "The 29th ACM Conference on Computer and Communications Security (CCS), Los Angeles, CA"
+      time: 202211
+      venue: "ACM CCS"
+      topic: "Phishing Protection and‌ Cloaking Behavior"
+      type: Conferences
+
+    - title: "Dazzle-attack: Anti-Forensic Server-side Attack via Fail-free Dynamic State Machine"
+      authors: "Bora Lee, Kyungchan Lim, JiHo Lee, Chijung Jung, Doowon Kim, Kyu Hyung Lee, Haehyun Cho, Yonghwi Kwon"
+      info: "The 23rd World Conference on Information Security Applications (WISA), Jeju Island, Republic of Korea"
+      time: 202208
+      venue: "WISA"
+      topic: "Anti-Forensic Attack and State Machines"
+      type: Conferences
+
+    - title: "Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability"
+      authors: "Kyle Zeng, Yueqi Chen, Haehyun Cho, Xinyu Xing, Adam Doupé, Tiffany Bao, Yan Shoshitaishvili"
+      info: "The 31st USENIX Security Symposium (SEC), Boston, MA"
+      time: 202208
+      venue: "USENIX Security"
+      topic: "Kernel Exploits and Reliability"
+      type: Conferences
+
+    - title: "ViK: Practical Mitigation of Temporal Memory Safety Violations through Object ID Inspection"
+      authors: "Haehyun Cho, Jinbum Park, Adam Oest, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupe, Gail-Joon Ahn"
+      info: "The 27th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Lausanne, Switzerland"
+      time: 202202
+      venue: "ASPLOS"
+      topic: "Memory Safety and Object ID Inspection"
+      type: Conferences
+
+    - title: "정적분석 도구를 활용한 모바일 다언어 플랫폼 분석"
+      authors: "오세환, 전지환, 조해현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.1, pp.489-492, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Mobile Multilang Platform and Static Analysis"
+      type: Conferences
+
+    - title: "Docurity-클라우드 기반 협업 시스템을 위한 새로운 블록암호 운용방식"
+      authors: "김벼리, 최민성, 임유빈, 조해현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.1, pp.5-8, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Block Cipher Modes and Cloud Collaboration"
+      type: Conferences
+
+    - title: "추적 스크립트를 삽입한 웹사이트에 대한 탐지 및 차단 기법 조사"
+      authors: "허호녕, 조해현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.1, pp.329-332, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Web Tracking and Mitigation"
+      type: Conferences
+
+    - title: "난독화 기법과 역난독화 기법에 대한 동향조사"
+      authors: "이동호, 조해현, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.32, pp.619-622, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Obfuscation and Deobfuscation Trends"
+      type: Conferences
+
+    - title: "멀웨어 패밀리 분석을 위한 생성모델 기반의 안드로이드 멀웨어 데이터 증강"
+      authors: "반영훈, 조해현"
+      info: "한국정보보호학회 동계학술대회, Vol.32, pp.485-488, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Malware Data Augmentation and Generative Models"
+      type: Conferences
+
+    - title: "온라인 행태정보 추적 차단을 위한 웹 측정 도구 및 추적 방지 기법"
+      authors: "심경민, 조해현"
+      info: "한국정보보호학회 동계학술대회, Vol.32, pp.325-328, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Web Tracking and Prevention"
+      type: Conferences
+
+    - title: "Unicorn 기반 자동 역난독화 시스템"
+      authors: "김민호, 이광열, 조해현, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.32, pp.405-408, Nov. 2022"
+      time: 202211
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Automated Deobfuscation and Unicorn"
+      type: Conferences
+
+- year: 2021
+  publications:
+    - title: "Automated Multi-Layered Bytecode Generation for Preventing Sensitive Information Leaks From Android Applications"
+      authors: "Geochang Jeon, Minseong Choi, Sunjun Lee, Jeong Hyun Yi, Haehyun Cho"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.9, No.1, pp.119578-119590"
+      time: 202108
+      venue: "IEEE Access"
+      topic: "Bytecode Generation and Privacy Protection"
+      type: Journal
+
+    - title: "Security Analysis on Practices of Certificate Authorities in the HTTPS Phishing Ecosystem"
+      authors: "Doowon Kim, Haehyun Cho, Yonghwi Kwon, Adam Oest, Adam Doupé, Sooel Son, Gail-Joon Ahn, Tudor Dumitras"
+      info: "16th ACM ASIA Conference on Computer and Communications Security (ASIA CCS), Online"
+      time: 202106
+      venue: "ACM ASIA CCS"
+      topic: "HTTPS Phishing and Certificate Authorities"
+      type: Conferences
+      
+    - title: "CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing"
+      authors: "Penghui Zhang, Adam Oest, Haehyun Cho, Zhibo Sun, RC Johnson, Brad Wardman, Shaown Sarker, Alexandros Kapravelos, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn"
+      info: "42nd IEEE Symposium on Security and Privacy (IEEE S&P), San Francisco, CA, USA"
+      time: 202105
+      venue: "IEEE S&P"
+      topic: "Client-side Cloaking and Phishing"
+      type: Conferences
+
+    - title: "Favocado: Fuzzing the Binding Code of JavaScript Engines Using Semantically Correct Test Cases"
+      authors: "Sung Ta Dinh, Haehyun Cho, Kyle Martin, Adam Oest, Kyle Zeng, Alexandros Kapravelos, Tiffany Bao, Ruoyu Wang, Adam Doupé, Gail-Joon Ahn, Yan Shoshitaishvili"
+      info: "Network and Distributed System Security Symposium (NDSS), Online"
+      time: 202102
+      venue: "NDSS"
+      topic: "JS Engine Fuzzing and Test Case Generation"
+      type: Conferences
+  
+    - title: "Anti-Analysis 기법 탐지를 위한 API 후킹 기반의 데이터 흐름 추적 기법"
+      authors: "김민호, 이광열, 조해현, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.2, pp.706-709, Nov. 2021"
+      time: 202111
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Anti-Analysis and Data Flow Tracking"
+      type: Conferences
+
+    - title: "모바일 어플리케이션에서 정확한 악성행위 분석을 위한 난독화된 식별자 인식 및 변환 방안"
+      authors: "임유빈, 이광열, 조해현, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.2, pp.86-89, Nov. 2021"
+      time: 202111
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Obfuscated Identifier Recognition and Malware Analysis"
+      type: Conferences
+
+    - title: "구현적 특징을 이용한 악성 애플리케이션 분류기법"
+      authors: "반영훈, 조해현, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.2, pp.90-93, Nov. 2021"
+      time: 202111
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Feature-based Malware Classification"
+      type: Conferences
+
+    - title: "난독화된 애플리케이션의 민감한 데이터 흐름 분석을 위한 역난독화"
+      authors: "이동호, 조해현, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.31 No.2, pp.82-85, Nov. 2021"
+      time: 202111
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Sensitive Data Flow and Deobfuscation"
+      type: Conferences
+
+    - title: "시스템 소프트웨어의 이상행위 탐지 기법"
+      authors: "심경민, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.653-656, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Anomaly Detection and System Software"
+      type: Conferences
+
+    - title: "ROS 통신 무결성 검증을 위한 데이터 인증기법과 성능평가"
+      authors: "심경민, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.311-314, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "ROS and Data Authentication"
+      type: Conferences
+
+    - title: "안드로이드 애플리케이션들의 네이티브 코드 사용 동향 분석"
+      authors: "최민성, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.680-683, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Native Code Usage and Android"
+      type: Conferences
+
+    - title: "정적 분석 기반 딥 러닝을 이용한 효율적인 안드로이드 멀웨어 탐지 기법"
+      authors: "김진성, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.680-683, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Static Analysis and Deep Learning"
+      type: Conferences
+
+    - title: "안드로이드 악성코드의 분석을 위한 분석 방지 기법 조사"
+      authors: "김벼리, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.676-679, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Evasion Techniques and Analysis Prevention"
+      type: Conferences
+
+    - title: "Themida API Wrapping 자동 역난독화 시스템"
+      authors: "김민호, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.580-583, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "API Wrapping and Deobfuscation"
+      type: Conferences
+
+    - title: "안드로이드 악성코드 분석을 위한 동적 애플리케이션 분석 시스템"
+      authors: "신용구, 이선준, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.672-675, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Dynamic Analysis and Android"
+      type: Conferences
+
+    - title: "안드로이드 어플리케이션의 개인정보 유출을 방지하기 위한 민감한 데이터 흐름 보호 기법"
+      authors: "전거창, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.668-671, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Data Flow Protection and Privacy"
+      type: Conferences
+
+    - title: "정적오염분석을 방지하는 난독화 기법과 역난독화 방안"
+      authors: "이동호, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.660-663, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Taint Analysis and Obfuscation"
+      type: Conferences
+
+    - title: "딥 러닝 기반의 코드 유사도 탐지 방법 동향"
+      authors: "반영훈, 조해현, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.31 No.1, pp.608-611, Jun. 2021"
+      time: 202106
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Code Similarity and Deep Learning"
+      type: Conferences
+
+- year: 2020
+  publications:
+    - title: "Self-Controllable Mobile App Protection Scheme Based on Binary Code Splitting"
+      authors: "Sungtae Kim, Taeyong Park, Geochang Jeon, Jeong Hyun Yi"
+      info: "Mobile Information Systems (ISSN: 1574-017X), Vol.2020, Article ID: 8813243"
+      time: 202010
+      venue: "Mobile Information Systems"
+      topic: "App Protection and Binary Splitting"
+      type: Journal
+
+    - title: "Risk Assessment Scheme for Mobile Applications Based on Tree Boosting"
+      authors: "Kichang Kim, Jinsung Kim, Eunbyeol Ko, Jeong Hyun Yi"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.8, No.1, pp.48503-48514"
+      time: 202003
+      venue: "IEEE Access"
+      topic: "Risk Assessment and Machine Learning"
+      type: Journal
+
+    - title: "Deep Mobile Malware Detection and Classification Based on Supervised CNN"
+      authors: "Younghun Ban, Eunbyeol Ko, Jinsung Kim, Jeong Hyun Yi"
+      info: "World Conference on Information Security Applications (WISA 2020)"
+      time: 202008
+      venue: "WISA 2020"
+      topic: "Malware Detection and CNN"
+      type: Conferences
+
+    - title: "Dynamic Mobile App Unpacking Based on Bytecode Instrumentation"
+      authors: "Geochang Jeon, Sunjun Lee, Jeong Hyun Yi"
+      info: "World Conference on Information Security Applications (WISA 2020)"
+      time: 202008
+      venue: "WISA 2020"
+      topic: "App Unpacking and Bytecode Instrumentation"
+      type: Conferences
+
+    - title: "Scam Pandemic: How Attackers Exploit Public Fear through Phishing"
+      authors: "Marzieh Bitaab, Haehyun Cho, Adam Oest, Penghui Zhang, Zhibo Sun, Rana Pourmohamad, Doowon Kim, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn"
+      info: "APWG Symposium on Electronic Crime Research (eCrime), Online"
+      time: 202011
+      venue: "eCrime 2020"
+      topic: "Phishing and Social Engineering"
+      type: Conferences
+
+    - title: "Exploiting Uses of Uninitialized Stack Variables in Linux Kernels to Leak Kernel Pointers"
+      authors: "Haehyun Cho, Jinbum Park, Joonwon Kang, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn"
+      info: "USENIX Workshop on Offensive Technologies (WOOT), Online"
+      time: 202008
+      venue: "Usenix WOOT 2020"
+      topic: "Kernel Pointers and Stack Variables"
+      type: Conferences
+
+    - title: "SmokeBomb: Effective Mitigation Against Cache Side-channel Attacks on the ARM Architecture"
+      authors: "Haehyun Cho, Jinbum Park, Donguk Kim, Ziming Zhao, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn"
+      info: "ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Online"
+      time: 202006
+      venue: "ACM MobiSys 2020"
+      topic: "Cache Side-channel Attacks and ARM Architecture"
+      type: Conferences
+
+    - title: "Variant AutoEncoder 기반 모바일 맬웨어 클러스터링 기법"
+      authors: "고은별, 김진성, 반영훈, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.30 No.1, pp.396-399, Jul. 2020"
+      time: 202007
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Malware Clustering and VAE"
+      type: Conferences
+
+    - title: "DBI 기반 모바일 네이티브 코드 분석방지 우회 시스템 설계"
+      authors: "신용구, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.30 No.1, pp.73-76, Jul. 2020"
+      time: 202007
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Dynamic Binary Instrumentation and Evasion"
+      type: Conferences
+
+    - title: "메소드 후킹 기반 안드로이드 분석방지 우회 시스템 설계"
+      authors: "이선준, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.30 No.1, pp.77-80, Jul. 2020"
+      time: 202007
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Hooking and Evasion"
+      type: Conferences
+
+- year: 2019
+  publications:
+    - title: "Intelligent Malware Detection Based on Hybrid Learning of API and ACG on Android"
+      authors: "Kichang Kim, Eunbyeol Ko, Jinsung Kim, Jeong Hyun Yi"
+      info: "Journal of Internet Services and Information Security (ISSN: 2182-2069), Vol.9, No.4, pp.39-48"
+      time: 201911
+      venue: "Journal of Internet Services and Information Security"
+      topic: "Hybrid Learning and Malware Detection"
+      type: Journal
+
+    - title: "Automatic String Deobfuscation Scheme for Mobile Applications Based on Platform-level Code Extraction"
+      authors: "WooJong Yoo, Minkoo Kang, Myeongju Ji, Jeong Hyun Yi"
+      info: "International Journal of Ad Hoc and Ubiquitous Computing (ISSN: 1743-8225), Vol.31, No.3, pp.143-154"
+      time: 201906
+      venue: "International Journal of Ad Hoc and Ubiquitous Computing"
+      topic: "String Deobfuscation and Code Extraction"
+      type: Journal
+
+    - title: "Mobile Code Anti-Reversing Scheme Based on Bytecode Trapping in ART"
+      authors: "Geonbae Na, Jongsu Lim, Sunjun Lee, Jeong Hyun Yi"
+      info: "Sensors (ISSN: 1424-8220), Vol.19, No.11, Article No.2625"
+      time: 201906
+      venue: "Sensors"
+      topic: "Anti-Reversing and Bytecode Trapping"
+      type: Journal
+
+    - title: "iCORE: Continuous and Proactive Extrospection on Multi-core IoT Devices"
+      authors: "Penghui Zhang, Haehyun Cho, Ziming Zhao, Adam Doupé, Gail-Joon Ahn"
+      info: "ACM/SIGAPP Symposium on Applied Computing (ACM SAC), Limassol, Cyprus"
+      time: 201904
+      venue: "ACM SAC 2019"
+      topic: "IoT Extrospection and Multi-core Devices"
+      type: Conferences
+
+    - title: "머신러닝을 활용한 API 기반 모바일 애플리케이션 악성 행위 탐지 기술 분석"
+      authors: "김기창, 김진성, 고은별, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.29 No.1, pp.451-454, Jun. 2019"
+      time: 201906
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "API-based Malware Detection and ML"
+      type: Conferences
+
+    - title: "안드로이드 바이트코드 역난독화를 위한 동적 계측 시스템 구조설계"
+      authors: "김규호, 신용구, 이선준, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.29 No.1, pp.390-393, Jun. 2019"
+      time: 201906
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Dynamic Instrumentation and Deobfuscation"
+      type: Conferences
+
+- year: 2018
+  publications:
+    - title: "DexMonitor: Dynamically Analyzing and Monitoring Obfuscated Android Applications"
+      authors: "Haehyun Cho, Jeong Hyun Yi, Gail-Joon Ahn"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.6, No.1, pp.71229-71240"
+      time: 201812
+      venue: "IEEE Access"
+      topic: "Dynamic Analysis and Android Security"
+      type: Journal
+
+    - title: "Distributed Quality of Service Routing Protocol for Multimedia Traffic in WiMedia Networks"
+      authors: "Jin-Woo Kim, Jeong Hyun Yi, Changho Seo"
+      info: "Wireless Networks (ISSN: 1022-0038), Vol.24, No.8, pp.2835-2849"
+      time: 201811
+      venue: "Wireless Networks"
+      topic: "QoS Routing and Multimedia Networks"
+      type: Journal
+
+    - title: "Anti-Reversible Dynamic Tamper Detection Scheme Using Distributed Image Steganography for IoT Applications"
+      authors: "SungRyoung Kim, JeongNyeo Kim, SungTae Kim, Sunwoo Shin, Jeong Hyun Yi"
+      info: "Journal of Supercomputing (ISSN: 0920-8542), Vol.74, No.9, pp.4261-4280"
+      time: 201809
+      venue: "Journal of Supercomputing"
+      topic: "Tamper Detection and Image Steganography"
+      type: Journal
+
+    - title: "Survey of Dynamic Anti-Analysis Schemes for Mobile Malware"
+      authors: "Jongsu Lim, Yonggu Shin, Sunjun Lee, Kyuho Kim, Jeong Hyun Yi"
+      info: "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (ISSN: 2093-5374), Vol.9, No.3, pp.39-49"
+      time: 201809
+      venue: "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications"
+      topic: "Anti-Analysis and Survey"
+      type: Journal
+
+    - title: "Code-Based Authentication Scheme for Lightweight Integrity Checking of Smart Vehicles"
+      authors: "Joonsang Yoo, Jeong Hyun Yi"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.6, No.1, pp.46731-46741"
+      time: 201808
+      venue: "IEEE Access"
+      topic: "Authentication and Smart Vehicles"
+      type: Journal
+
+    - title: "Multi-Partitioned Bytecode Wrapping Scheme For Minimizing Code Exposure on Android"
+      authors: "Yongjin Park, Taeyong Park, Jeong Hyun Yi"
+      info: "Journal of Internet Technology (ISSN: 1607-9264), Vol.19, No.4, pp.1199-1208, Jul. 2018 (IF: 1.93)"
+      time: 201807
+      venue: "Journal of Internet Technology"
+      topic: "Bytecode Wrapping and Code Exposure"
+      type: Journal
+
+    - title: "Risk Assessment of Mobile Applications Based on Machine Learned Malware Dataset"
+      authors: "Hyunki Kim, Taejoo Cho, Gail-Joon Ahn, Jeong Hyun Yi"
+      info: "Multimedia Tools and Applications (ISSN: 1380-7501), Vol.77, No.4, pp.5027–5042, Feb. 2018 (IF: 1.541)"
+      time: 201802
+      venue: "Multimedia Tools and Applications"
+      topic: "Risk Assessment and Machine Learning"
+      type: Journal
+
+    - title: "Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone"
+      authors: "Haehyun Cho, Penghui Zhang, Donguk Kim, Jinbum Park, Choong-Hoon Lee, Ziming Zhao, Adam Doupé, Gail-Joon Ahn"
+      info: "Annual Computer Security Applications Conference (ACSAC), San Juan, Puerto Rico, USA"
+      time: 201812
+      venue: "ACSAC 2018"
+      topic: "Covert Channels and ARM TrustZone"
+      type: Conferences
+
+    - title: "Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling"
+      authors: "Jaejong Baek, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doupé, Gail-Joon Ahn"
+      info: "Annual Computer Security Applications Conference (ACSAC), San Juan, Puerto Rico, USA"
+      time: 201812
+      venue: "ACSAC 2018"
+      topic: "Privacy Attacks and Wi-Fi Calling"
+      type: Conferences
+
+    - title: "DexGuard 난독화 도구 특성 분석"
+      authors: "김규호, 신용구, 이선준, 이정현"
+      info: "한국정보보호학회 동계학술대회, Vol.28 No.2, pp.538-541, Dec. 2018"
+      time: 201812
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "DexGuard and Obfuscation Analysis"
+      type: Conferences
+
+    - title: "지능형 악성코드 분석을 위한 안티리버싱 코드 우회 프레임워크 설계 및 구현"
+      authors: "이선준, 김규호, 신용구, 이정현"
+      info: "한국정보처리학회 추계학술발표대회, Vol.25 No.2, pp.218-221, Nov. 2018"
+      time: 201811
+      venue: "한국정보처리학회 추계학술발표대회"
+      topic: "Anti-Reversing and Framework"
+      type: Conferences
+
+    - title: "모바일 코드 역공학 방지 기법 분석"
+      authors: "임종수, 나건배, 김현기, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.26 No.1, pp.305-308, Jun. 2018"
+      time: 201806
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Anti-Reverse Engineering and Mobile Code"
+      type: Conferences
+
+    - title: "모바일 애플리케이션 위험도 평가 기법 분석"
+      authors: "김현기, 유준상, 이정현"
+      info: "한국정보보호학회 하계학술대회, Vol.26 No.1, pp.301-304, Jun. 2018"
+      time: 201806
+      venue: "한국정보보호학회 하계학술대회"
+      topic: "Risk Assessment and Mobile Apps"
+      type: Conferences
+
+- year: 2017
+  publications:
+    - title: "Multipath Routing Technique for Responding to Sniffing Attacks in Wireless Multimedia Sensor Network Environment"
+      authors: "Seongsoo Cho, Jeong Hyun Yi, Bhanu Shrestha, Changho Seo"
+      info: "International Journal of Sensor Networks (ISSN: 1748-1279), Vol.24, No.3, pp.200-207"
+      time: 201709
+      venue: "International Journal of Sensor Networks"
+      topic: "Multipath Routing and Sniffing Attack Mitigation"
+      type: Journal
+
+    - title: "Security Assessment of Code Obfuscation Based on Dynamic Monitoring in Android Things"
+      authors: "Taejoo Cho, Hyunkim Kim, Jeong Hyun Yi"
+      info: "IEEE Access (ISSN: 2169-3536), Vol.5, No.1, pp.6361-6371"
+      time: 201705
+      venue: "IEEE Access"
+      topic: "Code Obfuscation and Dynamic Monitoring"
+      type: Journal
+
+    - title: "Empirical Analysis of Anti-Reversing Schemes for Protecting Mobile Codes in the Internet-of-Things"
+      authors: "Haehyun Cho, Hyunki Kim, Jongsu Lim, Junghwan Lee, Jeong Hyun Yi"
+      info: "International Journal of Services Technology and Management (ISSN: 1460-6720), Vol.23, No.1/2, pp.21-31"
+      time: 201701
+      venue: "International Journal of Services Technology and Management"
+      topic: "Anti-Reversing and IoT Security"
+      type: Journal
+
+- year: 2016
+  publications:
+    - title: "Hardware-Assisted Credential Management Scheme for Preventing Private Data Analysis from Cloning Attack"
+      authors: "Jongwon Choi, Geonbae Na, Jeong Hyun Yi"
+      info: "Multimedia Tools and Applications (ISSN: 1380-7501), Vol.75, No.22, pp.14833-14848"
+      time: 201611
+      venue: "Multimedia Tools and Applications"
+      topic: "Credential Management and Cloning Attack Prevention"
+      type: Journal
+
+    - title: "Structural Analysis of Packing Schemes for Extracting Hidden Codes in Mobile Malware"
+      authors: "Jongsu Lim, Jeong Hyun Yi"
+      info: "EURASIP Journal on Wireless Communications and Networking (ISSN: 1687-1499), Vol.2016, Article No.221"
+      time: 201609
+      venue: "EURASIP Journal on Wireless Communications and Networking"
+      topic: "Packing Schemes and Static Analysis"
+      type: Journal
+
+    - title: "Mobile Code Packing Scheme Based on Multi-partitioned Bytecode Wrapping"
+      authors: "Yongjin Park, Taeyong Park, Sung Tae Kim, Jeong Hyun Yi"
+      info: "Research Briefs on ICT Evolution (ISSN: 2383-9201), Vol.2, Article No.12"
+      time: 201609
+      venue: "Research Briefs on ICT Evolution"
+      topic: "Code Packing and Bytecode Wrapping"
+      type: Journal
+
+    - title: "Mobile Application Tamper Detection Scheme Using Dynamic Code Injection Against Repackaging Attacks"
+      authors: "Haehyun Cho, Jiwoong Bang, Myeongju Ji, Jeong Hyun Yi"
+      info: "Journal of Supercomputing (ISSN: 0920-8542), Vol.72, No.9, pp.3629-3645"
+      time: 201609
+      venue: "Journal of Supercomputing"
+      topic: "Tamper Detection and Code Injection"
+      type: Journal
+
+    - title: "Comparative Analysis of Mobile App Reverse Engineering Methods on Dalvik and ART"
+      authors: "Geonbae Na, Jongsu Lim, Kyoungmin Kim, Jeong Hyun Yi"
+      info: "Journal of Internet Services and Information Security (ISSN: 2182-2077), Vol.6, No.3, pp.27-39"
+      time: 201608
+      venue: "Journal of Internet Services and Information Security"
+      topic: "Reverse Engineering and Dalvik vs. ART"
+      type: Journal
+
+    - title: "TRIPLEMON: A Multi-layer Security Framework for Mediating Inter-Process Communication on Android"
+      authors: "Yiming Jing, Gail-Joon Ahn, Hongxin Hu, Haehyun Cho, Ziming Zhao"
+      info: "Journal of Computer Security (ISSN: 0926-227X), Vol.24, No.4, pp.405-426"
+      time: 201608
+      venue: "Journal of Computer Security"
+      topic: "Security Framework and IPC Mediation"
+      type: Journal
+
+    - title: "Advances in Mobile Security Technologies"
+      authors: "Jeong Hyun Yi, Aziz Mohaisen, Sean Yang, Ching-Hsien Hsu"
+      info: "Mobile Information Systems (ISSN: 1574-017X), Vol.2016, Article ID: 9501918"
+      time: 201606
+      venue: "Mobile Information Systems"
+      topic: "Mobile Security and Survey"
+      type: Journal
+
+    - title: "String Deobfuscation Scheme based on Dynamic Code Extraction for Mobile Malwares"
+      authors: "WooJong Yoo, Myeongju Ji, MinKoo Kang, Jeong Hyun Yi"
+      info: "IT Convergence Practice (ISSN: 2288-0860), Vol.4, No.2, pp.1-8"
+      time: 201606
+      venue: "IT Convergence Practice"
+      topic: "String Deobfuscation and Code Extraction"
+      type: Journal
+
+    - title: "Cyber Threats to Mobile Messenger Apps from Identity Cloning"
+      authors: "Suwan Park, Changho Seo, Jeong Hyun Yi"
+      info: "Journal of Intelligent Automation & Soft Computing (ISSN: 1079-8587), Vol.22, No.3, pp.379-387"
+      time: 201606
+      venue: "Journal of Intelligent Automation & Soft Computing"
+      topic: "Identity Cloning and Threat Analysis"
+      type: Journal
+
+    - title: "Server-based Code Obfuscation Scheme for APK Tamper Detection"
+      authors: "Yuxue Piao, Jinhyuk Jung, Jeong Hyun Yi"
+      info: "Security and Communication Networks (ISSN: 1939-0114), Vol.9, No.6, pp.457-467"
+      time: 201604
+      venue: "Security and Communication Networks"
+      topic: "Code Obfuscation and Tamper Detection"
+      type: Journal
+
+    - title: "Anti-Debugging Scheme For Protecting Mobile Apps on Android Platform"
+      authors: "Haehyun Cho, Jongsu Lim, Hyunki Kim, Jeong Hyun Yi"
+      info: "Journal of Supercomputing (ISSN: 0920-8542), Vol.72, No.1, pp.232-246"
+      time: 201601
+      venue: "Journal of Supercomputing"
+      topic: "Anti-Debugging and Android Security"
+      type: Journal
+
+    - title: "TrustZone explained: Architectural features and use cases"
+      authors: "Bernard Ngabonziza, Daniel Martin, Anna Bailey, Haehyun Cho, Sarah Martin"
+      info: "IEEE International Conference on Collaboration and Internet Computing (CIC), Pittsburgh, PA, USA"
+      time: 201611
+      venue: "IEEE CIC 2016"
+      topic: "ARM TrustZone and Architecture"
+      type: Conferences
+
+    - title: "Quantifiable Measurement Scheme for Mobile Code Vulnerability Based on Machine-Learned API Features"
+      authors: "Hyunki Kim, Joonsang Yoo, Jeong Hyun Yi"
+      info: "International Conference on Cyber-Technologies and Cyber-Systems (CYBER 2016), Venice, Italy"
+      time: 201610
+      venue: "CYBER 2016"
+      topic: "Vulnerability Measurement and API Features"
+      type: Conferences
+
+    - title: "Checking Intent-based Communication in Android with Intent Space Analysis"
+      authors: "Yiming Jing, Gail-Joon Ahn, Adam Doupé, Jeong Hyun Yi"
+      info: "Asia Conference on Computer and Communications Security (AsiaCCS '16), Xian, China"
+      time: 201606
+      venue: "AsiaCCS 2016"
+      topic: "Intent Analysis and Android IPC"
+      type: Conferences
+
+    - title: "API 특성 정보기반 악성 애플리케이션 식별 기법"
+      authors: "조태주, 김현기, 이정환, 정문규, 이정현"
+      info: "한국정보보호학회 논문지, Volume 26 Issue 1, pp.187-196, Feb. 2016"
+      time: 201602
+      venue: "한국정보보호학회 논문지"
+      topic: "API Feature-based Malware Identification"
+      type: Journal
+
+- year: 2015
+  publications:
+    - title: "The Endpoint Application Execution Control Scheme Based on the Whitelist"
+      authors: "Chang Hong Kim, Jeong Hyun Yi, Jong Bae Kim"
+      info: "International Journal of Control and Automation (ISSN: 2005-4297), Vol.8, No.4, pp.83-88"
+      time: 201504
+      venue: "International Journal of Control and Automation"
+      topic: "Execution Control and Whitelist"
+      type: Journal
+
+    - title: "Personal Information Leaks with Automatic Login in Mobile Social Network Services"
+      authors: "Jongwon Choi, Haehyun Cho, Jeong Hyun Yi"
+      info: "Entropy Journal (ISSN: 1099-4300), Vol.17, No.6, pp.3947-3962"
+      time: 201506
+      venue: "Entropy"
+      topic: "Privacy Leaks and Mobile SNS"
+      type: Journal
+
+    - title: "Account Forgery and Privilege Escalation Attacks on Android Home Cloud Devices"
+      authors: "Taejoo Cho, Geonbae Na, Deokgyu Lee, Jeong Hyun Yi"
+      info: "Advanced Science Letter (ISSN: 1936-6612), Vol.21, No.3, pp.381-386"
+      time: 201503
+      venue: "Advanced Science Letter"
+      topic: "Privilege Escalation and Cloud Security"
+      type: Journal
+
+    - title: "Analyzing Mobile Code Obfuscation Solutions"
+      authors: "Haehyun Cho, Jiwoong Bang, Taejoo Cho, Jeong Hyun Yi"
+      info: "Smart IT Applications Conference (SITA’15), Seoul, Korea"
+      time: 201502
+      venue: "SITA’15"
+      topic: "Code Obfuscation and· Analysis"
+      type: Conferences
+
+    - title: "Comparative Study on Multimodal User Authentication Schemes for Mobile Devices"
+      authors: "Jongwon Choi, Yongjin Park, Myeongju Ji, Jeong Hyun Yi"
+      info: "Smart IT Applications Conference (SITA’15), Seoul, Korea"
+      time: 201502
+      venue: "SITA’15"
+      topic: "Multimodal Authentication and Mobile Devices"
+      type: Conferences
+
+    - title: "How to Prevent Debugger Attachment Using Preemptive Virtual Connection For Anti-Reversible Android Apps"
+      authors: "Haehyun Cho, Jongsu Lim, Jeong Hyun Yi"
+      info: "Platform Technology and Service Conference (PlatCon’15), Jeju, Korea"
+      time: 201501
+      venue: "PlatCon’15"
+      topic: "Debugger Prevention and Virtual Connection"
+      type: Conferences
+
+    - title: "Experimenting Emulator Detection Schemes For Protecting Mobile Apps Against Reverse Engineering"
+      authors: "Haehyun Cho, Hyunki Kim, Jongsu Lim, Junghwan Lee, Jeong Hyun Yi"
+      info: "Platform Technology and Service Conference (PlatCon’15), Jeju, Korea"
+      time: 201501
+      venue: "PlatCon’15"
+      topic: "Emulator Detection and Reverse Engineering"
+      type: Conferences
+
+    - title: "Dynamic Code Attestation Scheme Based on Core Code Injection for Android App Tamper Detection"
+      authors: "Haehyun Cho, Jiwoong Bang, Jeong Hyun Yi"
+      info: "Platform Technology and Service Conference (PlatCon’15), Jeju, Korea"
+      time: 201501
+      venue: "PlatCon’15"
+      topic: "Code Attestation and Code Injection"
+      type: Conferences
+
+- year: 2014
+  publications:
+    - title: "Multiple Device Login Attacks and Countermeasures of Mobile VoIP Apps on Android"
+      authors: "Su Wan Park, Jeong Hyun Yi"
+      info: "Journal of Internet Services and Information Security (ISSN: 2182-2077), Vol.4, No.4, pp.115-126"
+      time: 201412
+      venue: "Journal of Internet Services and Information Security"
+      topic: "Login Attacks and VoIP Security"
+      type: Journal
+
+    - title: "Spyware Resistant Smartphone User Authentication Scheme"
+      authors: "Taejin Kim, Jeong Hyun Yi, Changho Seo"
+      info: "International Journal of Distributed Sensor Networks (ISSN: 1550-1329), Vol.2014, Article ID:237125"
+      time: 201403
+      venue: "International Journal of Distributed Sensor Networks"
+      topic: "Authentication and Spyware Resistance"
+      type: Journal
+
+    - title: "안드로이드 구글 계정 앱의 개인정보 유출 취약점 분석"
+      authors: "최종원, 이정현"
+      info: "한국디지털포렌식학회 논문지, Volume 8 Issue 2, pp.65-81, Dec. 2014"
+      time: 201412
+      venue: "한국디지털포렌식학회 논문지"
+      topic: "Android Privacy and Vulnerability Analysis"
+      type: Journal
+
+- year: 2014
+  publications:
+    - title: "멀티모달 센서를 이용한 스마트기기 사용자 인증 기술 동향"
+      authors: "최종원, 이정현"
+      info: "한국정보보호학회 학회지, Vol.24 No.3, pp.7-14, Jun. 2014"
+      time: 201406
+      venue: "한국정보보호학회 학회지"
+      topic: "Multimodal Authentication and IoT"
+      type: Conferences
+
+- year: 2013
+  publications:
+    - title: "Repackaging Attack on Android Banking Applications and Its Countermeasures"
+      authors: "Jin-Hyuk Jung, Ju Young Kim, Hyeong-Chan Lee, Jeong Hyun Yi"
+      info: "Wireless Personal Communications (ISSN: 0929-6212), Vol.73, No.4, pp.1421-1437"
+      time: 201312
+      venue: "Wireless Personal Communications"
+      topic: "Repackaging Attack and Banking Security"
+      type: Journal
+
+    - title: "Elastic Password Authentication Scheme using Passcell-based Virtual Scroll Wheel"
+      authors: "Hyunyi Yi, Siwan Kim, Gunil Ma, Jeong Hyun Yi"
+      info: "International Journal of Computer Mathematics (ISSN: 0020-7160), Vol.90, No.12, pp.2530-2540"
+      time: 201312
+      venue: "International Journal of Computer Mathematics"
+      topic: "Password Authentication and Virtual Scroll"
+      type: Journal
+
+    - title: "Multi-signature Based Tamper Detection Scheme of Android Applications"
+      authors: "Hyeong-Chan Lee, Jin-Hyuk Jung, Jeong Hyun Yi"
+      info: "Sensor Letters (ISSN: 1546-198X), Vol.11, No.9, pp.1820-1827"
+      time: 201309
+      venue: "Sensor Letters"
+      topic: "Tamper Detection and Multi-signature"
+      type: Journal
+
+    - title: "Secure and Lightweight Authentication Protocol for Mobile RFID Privacy"
+      authors: "Hyeong-Chan Lee, Taeyang Eom, Jeong Hyun Yi"
+      info: "Applied Mathematics & Information Sciences (ISSN: 1935-0090), Vol.7, No.1, pp.421-426"
+      time: 201301
+      venue: "Applied Mathematics & Information Sciences"
+      topic: "RFID Authentication and Privacy"
+      type: Journal
+
+    - title: "프로가드 난독화 도구 구조 및 기능 분석"
+      authors: "Yuxue Piao, 정진혁, 이정현"
+      info: "한국통신학회 논문지, Volume 38B Issue 8, pp.654-662, Aug. 2013"
+      time: 201308
+      venue: "한국통신학회 논문지"
+      topic: "Code Obfuscation and ProGuard Analysis"
+      type: Journal
+
+    - title: "안드로이드 바이트코드 난독화 도구 분석"
+      authors: "정진혁, 이정현"
+      info: "통신정보 합동학술대회(JCCI 2013), May 2013"
+      time: 201305
+      venue: "JCCI 2013"
+      topic: "Bytecode Obfuscation and Tool Analysis"
+      type: Conferences
+
+- year: 2012
+  publications:
+    - title: "Design and Implementation of Smart Channel Establishment Schemes for Mobile Wallet Services"
+      authors: "Gunil Ma, Jeong Hyun Yi"
+      info: "Advanced Science Letters (ISSN: 1936-6612), Vol.9, pp.579-584"
+      time: 201204
+      venue: "Advanced Science Letters"
+      topic: "Channel Establishment and Mobile Wallet"
+      type: Journal
+
+- year: 2011
+  publications:
+    - title: "모바일 지갑 서비스를 위한 근거리 무선 연결 보호 기법"
+      authors: "마건일, 이형찬, 이정현"
+      info: "한국정보과학회 논문지: 정보통신, Volume 38 Issue 5, pp.394-404, Oct. 2011"
+      time: 201110
+      venue: "한국정보과학회 논문지: 정보통신"
+      topic: "NFC Security and Mobile Wallet"
+      type: Journal
+
+    - title: "윈도우 CE 기반 스마트폰의 SMS 관리 취약점 분석"
+      authors: "정진혁, 이형찬, 이정현"
+      info: "한국정보과학회 논문지: 정보통신, Volume 38 Issue 2, pp.147-156, Apr. 2011"
+      time: 201104
+      venue: "한국정보과학회 논문지: 정보통신"
+      topic: "SMS Vulnerabilities and Windows CE"
+      type: Journal
+
+    - title: "논리적 분석 기반의 안드로이드 스마트폰 포렌식 도구 구현"
+      authors: "김익수, 안영건, 이정현, 양승제, 김명호"
+      info: "한국컴퓨터정보학회 논문지, Volume 16 Issue 4, pp.137-148, Apr. 2011"
+      time: 201104
+      venue: "한국컴퓨터정보학회 논문지"
+      topic: "Android Forensics and Logical Analysis"
+      type: Journal
+
+    - title: "수동형 태그를 활용한 경량 모바일 RFID 인증기법"
+      authors: "엄태양, 이정현, 김춘수, 박용석"
+      info: "한국정보과학회 논문지: 컴퓨팅의 실제 및 레터, Volume 17 Issue 1, pp.56-60, Jan. 2011"
+      time: 201101
+      venue: "한국정보과학회 논문지: 컴퓨팅의 실제 및 레터"
+      topic: "RFID Authentication and Passive Tag"
+      type: Journal
+
+    - title: "모바일 난독화 기술 동향"
+      authors: "Yuxue Piao, 정진혁, 이정현"
+      info: "한국통신학회 학회지, Vol.29 No.8, pp.65-71, Aug. 2012"
+      time: 201208
+      venue: "한국통신학회 학회지"
+      topic: "Mobile Obfuscation and Survey"
+      type: Conferences
+
+    - title: "지뢰찾기 게임을 응용한 어깨너머 훔쳐보기 공격에 안전한 패스워드 인증기법"
+      authors: "김태진, 김시완, 박은애, 이정현"
+      info: "한국정보처리학회 춘계학술발표대회, Vol.19 No.1, pp.654-657, Apr. 2012"
+      time: 201204
+      venue: "한국정보처리학회 춘계학술발표대회"
+      topic: "Shoulder-Surfing and Authentication"
+      type: Conferences
+
+- year: 2011
+  publications:
+    - title: "스마트워크 보안 위협과 대책"
+      authors: "이형찬, 이정현, 손기욱"
+      info: "정보보호학회지, Vol.21 No.3, pp.12-21, May 2011"
+      time: 201105
+      venue: "정보보호학회지"
+      topic: "Smart Work Security and Threat Analysis"
+      type: Journal
+
+    - title: "모바일 지갑을 위한 스마트 채널 보안 기술 동향"
+      authors: "마건일, 이형찬, 기현식, 최대선, 진승헌, 이정현"
+      info: "한국정보과학회 종합학술대회(KCC'10), Vol.37 No.1-D, pp.95-100, Jun. 2010"
+      time: 201006
+      venue: "KCC 2010"
+      topic: "Smart Wallet and Security"
+      type: Conferences
+
+- year: 2010
+  publications:
+    - title: "Open IPTV 환경에서 재암호화 과정없는 댁내 컨텐츠 분배를 위한 키관리 기법"
+      authors: "정서현, 노효선, 이현우, 이정현, 정수환"
+      info: "한국컴퓨터정보학회 논문지, Volume 15 Issue 7, pp.57-66, Jul. 2010"
+      time: 201007
+      venue: "한국컴퓨터정보학회 논문지"
+      topic: "IPTV Key Management and Content Distribution"
+      type: Journal
+
+    - title: "모바일 악성코드 분석방법과 대응방안"
+      authors: "김익수, 정진혁, 이형찬, 이정현"
+      info: "한국통신학회 논문지, Volume 35 Issue 4, pp.599-609, Apr. 2010"
+      time: 201004
+      venue: "한국통신학회 논문지"
+      topic: "Mobile Malware Analysis and Defense"
+      type: Journal
+
+    - title: "CAS 시스템 기반의 IPTV 환경에서 사용자 단말 이동성 지원을 위한 인증프로토콜"
+      authors: "노효선, 정서현, 이정현, 정수환"
+      info: "한국통신학회 논문지, Volume 35 Issue 2, pp.265-276, Feb. 2010"
+      time: 201002
+      venue: "한국통신학회 논문지"
+      topic: "IPTV Authentication and CAS Protocol"
+      type: Journal
+
+    - title: "ARM기반 리눅스 커널에서 시스템콜 인터셉트 공격 (우수논문)"
+      authors: "이형찬, 김충희, 이정현"
+      info: "한국정보과학회 추계학술발표회, 제37권 제2호, pp.88-89, Nov. 2010"
+      time: 201011
+      venue: "한국정보과학회 추계학술발표회"
+      topic: "System Call Interception and Kernel Attacks"
+      type: Conferences
+
+    - title: "수동형 태그를 활용한 경량 모바일 RFID 인증 프로토콜 설계"
+      authors: "엄태양, 김춘수, 박용석, 이정현"
+      info: "한국정보과학회 종합학술대회(KCC'10), 제37권 제1-A호, pp.171-172, Jun. 2010"
+      time: 201006
+      venue: "한국정보과학회 종합학술대회 (KCC'10)"
+      topic: "RFID Authentication and Passive Tag"
+      type: Conferences
+
+    - title: "모바일 지갑 세션보호를 위한 디바이스 페어링 기술 성능평가"
+      authors: "마건일, 이형찬, 기현식, 최대선, 진승헌, 이정현"
+      info: "한국정보과학회 종합학술대회(KCC'10), Vol.37 No.1-A, pp.171-172, Jun. 2010"
+      time: 201006
+      venue: "KCC 2010"
+      topic: "Device Pairing and Performance Evaluation"
+      type: Conferences
+
+    - title: "스마트폰 보안 기술 동향"
+      authors: "이형찬, 정진혁, 김선휘, 이정현"
+      info: "한국정보처리학회 학회지, Vol.17 No.3, pp.61-72, May 2010"
+      time: 201005
+      venue: "한국정보처리학회 학회지"
+      topic: "Smartphone Security and Trends"
+      type: Conferences
+
+- year: 2009
+  publications:
+    - title: "Noninteractive Self-Certification for Long-Lived Mobile Ad Hoc Networks"
+      authors: "Nitesh Saxena, Jeong Hyun Yi"
+      info: "IEEE Transactions on Information Forensics and Security (ISSN: 1556-6013), Vol.4, No.4, pp.946-955"
+      time: 200912
+      venue: "IEEE Transactions on Information Forensics and Security"
+      topic: "Self-Certification and MANETs"
+      type: Journal
+
+    - title: "Efficient Node Admission and Certificateless Secure Communication in Short-lived MANETs"
+      authors: "Nitesh Saxena, Gene Tsudik, Jeong Hyun Yi"
+      info: "IEEE Transactions on Parallel and Distributed Systems (ISSN: 1045-9219), Vol.20, No.2, pp.158-170"
+      time: 200902
+      venue: "IEEE Transactions on Parallel and Distributed Systems"
+      topic: "Admission Control and Certificateless Security"
+      type: Journal
+
+    - title: "모바일 악성코드 현황 및 대응 방안"
+      authors: "정진혁, 이형찬, 김익수, 이정현"
+      info: "한국정보보호학회 동계학술대회 논문집, Vol.19 No.2, pp.179-182, Dec. 2009"
+      time: 200912
+      venue: "한국정보보호학회 동계학술대회"
+      topic: "Mobile Malware and Survey"
+      type: Conferences
+
+- year: 2007
+  publications:
+    - title: "Threshold Cryptography in P2P and MANETs: the Case of Access Control"
+      authors: "Nitesh Saxena, Gene Tsudik, Jeong Hyun Yi"
+      info: "Computer Networks (ISSN: 1389-1286), Vol.51, No.12, pp.3632-3649"
+      time: 200708
+      venue: "Computer Networks"
+      topic: "Threshold Cryptography and Access Control"
+      type: Journal
+
+    - title: "Robust Self-Keying Mobile Ad-Hoc Networks"
+      authors: "Claude Castelluccia, Nitesh Saxena, Jeong Hyun Yi"
+      info: "Computer Networks (ISSN: 1389-1286), Vol.51, No.4, pp.1169-1182"
+      time: 200703
+      venue: "Computer Networks"
+      topic: "Self-Keying and MANET Security"
+      type: Journal
+
+    - title: "URSA 애드혹 서명 알고리즘의 오류 수정"
+      authors: "이정현"
+      info: "한국정보보호학회 논문지, Volume 17 Issue 4, pp.131-136, Aug. 2007"
+      time: 200708
+      venue: "한국정보보호학회 논문지"
+      topic: "URSA Signature and Error Correction"
+      type: Journal
+
+- year: 1998
+  publications:
+    - title: "CALS정보보호 모델 설계와 적정성 분석"
+      authors: "신종태, 이정현, 이대기, 소우영"
+      info: "한국정보보호학회 논문지, Volume 8 Issue 2, pp.47-66, Jun. 1998"
+      time: 199806
+      venue: "한국정보보호학회 논문지"
+      topic: "CALS Security Model · Design Analysis"
+      type: Journal
+    - title: "EDI 정보보호시스템 개발"
+      authors: "이정현, 윤이중, 이대기, 김대호"
+      info: "한국정보과학회 논문지(C), Volume 4 Issue 1, pp.98-112, Feb. 1998"
+      time: 199802
+      venue: "한국정보과학회 논문지(C)"
+      topic: "EDI Security Systems and Development"
+      type: Journal
+
+- year: 1997
+  publications:
+    - title: "분산환경에서의 정보보호 서버: SESAME"
+      authors: "이정현, 윤이중, 이대기, 김대호"
+      info: "한국정보보호학회 학회지, Vol.7 No.4, pp.29-44, Dec. 1997"
+      time: 199712
+      venue: "한국정보보호학회 학회지"
+      topic: "Distributed Security and SESAME"
+      type: Conferences
+
+    - title: "EDI정보보호시스템의 구조 및 서비스 환경 분석"
+      authors: "이정현, 윤이중, 이대기, 김대호"
+      info: "한국정보보호학회 학회지, Vol.7 No.3, pp.99-121, Sep. 1997"
+      time: 199709
+      venue: "한국정보보호학회 학회지"
+      topic: "EDI Security and System Analysis"
+      type: Conferences
+
+    - title: "CALS 체제의 정보보호 프레임워크"
+      authors: "신종태, 이정현, 이대기, 소우영"
+      info: "한국정보보호학회 학회지, Vol.7 No.3, pp.53-76, Sep. 1997"
+      time: 199709
+      venue: "한국정보보호학회 학회지"
+      topic: "CALS Security Framework"
+      type: Conferences
+
+    - title: "안전한 EDI 시스템의 구현"
+      authors: "윤이중, 이정현, 이대기, 김대호"
+      info: "한국정보보호학회 학술대회(CISC-W'97), Vol.7 No.1, pp.439-459, Nov. 1997"
+      time: 199711
+      venue: "CISC-W'97"
+      topic: "EDI Security and Implementation"
+      type: Conferences
+
+    - title: "CALS 정보보호 모델 설계"
+      authors: "윤여웅, 이정현, 이대기, 소우영"
+      info: "한국정보보호학회 학술대회(CISC-W'97), Vol.7 No.1, pp.368-377, Nov. 1997"
+      time: 199711
+      venue: "CISC-W'97"
+      topic: "CALS Security Model"
+      type: Conferences
+
+    - title: "SESAME V4 분석"
+      authors: "이정현, 윤이중, 이대기, 김대호"
+      info: "정보보호와 암호에 관한 학술대회(WISC'97), pp.26-42, Sep. 1997"
+      time: 199709
+      venue: "WISC'97"
+      topic: "SESAME V4 and Analysis"
+      type: Conferences
+
+- year: 1996
+  publications:
+    - title: "ATM망에서 위반셀 우선폐기 알고리즘의 성능평가"
+      authors: "이정현, 문필주, 전문석, 이철희"
+      info: "대한전자공학회 논문지, Volume 33-A Issue 1, pp.1-11, Jan. 1996"
+      time: 199601
+      venue: "대한전자공학회 논문지"
+      topic: "ATM Networks and Cell Discard Algorithm"
+      type: Journal
+
+    - title: "안전한 EDI 시스템의 구현"
+      authors: "윤이중, 이정현, 이대기, 김대호"
+      info: "정보보호와 암호에 관한 학술대회(WISC'96), pp.161-173, Sep. 1996"
+      time: 199609
+      venue: "WISC'96"
+      topic: "EDI Security and Implementation"
+      type: Conferences
+
+    - title: "SEDI프로토콜 데이터 구조"
+      authors: "이정현, 윤이중, 강창구, 김대호"
+      info: "정보보호와 암호에 관한 학술대회(WISC'96), pp.174-189, Sep. 1996"
+      time: 199609
+      venue: "WISC'96"
+      topic: "SEDI Protocol and Data Structures"
+      type: Conferences

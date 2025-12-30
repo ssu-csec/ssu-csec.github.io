@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+<div id="whole">
+  <div class="ppl_container">
+
+    {% for group in site.data.people %}
+    {% if group.members %}
+    <span class="ppl_title">{{ group.group }}</span>
+
+    {% for person in group.members %}
+    <div class="ppl_profile">
+      {% if person.site %}<a href="{{ person.site }}">{% endif %}
+        <img alt="" src="{{ person.image | default: '/assets/images/no-image.jpg' }}" />
+        <span>{{ person.name }}</span>
+        {{ person.title }}
+        {% if person.subtitle %}
+        <br>
+        {{ person.subtitle }}
+        {% endif %}
+      {% if person.site %}</a>{% endif %}
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% endfor %}
+
+  </div>
+</div>

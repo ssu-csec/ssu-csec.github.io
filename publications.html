@@ -1,0 +1,47 @@
+---
+layout: default
+title: Publications
+---
+<h2>Publications</h2>
+<h4>
+  <a class="toggle_link" href="javascript:toggle('data-time')">Sort by Year</a> |
+  <!-- <a class="toggle_link" href="javascript:toggle('data-topic')">Sort by Area</a> | -->
+  <!-- <a class="toggle_link" href="javascript:toggle('data-venue')">Sort by Venue</a> | -->
+  <a class="toggle_link" href="javascript:toggle('data-type')">Sort by Type</a>
+</h4>
+<div id="anchors"></div>
+<div id="publication"></div>
+
+<div id="publicationdatabase" style="display: none;">
+  {% for group in site.data.publications %}
+  <h3>{{ group.year }}</h3>
+
+  {% for publication in group.publications %}
+  <li class="publication" data-time="{{ publication.time }}" data-venue="{{ publication.venue }}" data-topic="{{ publication.topic }}" data-type="{{ publication.type }}">
+    <span class="paper_title">{{ publication.title }}</span>
+    {% if publication.pdf %}(<a href="{{ publication.pdf }}">PDF</a>){% endif %}
+    {% if publication.link %}(<a href="{{ publication.link }}">Link</a>){% endif %}
+    {% if publication.bib %}(<a href="{{ publication.bib }}">BibTex</a>){% endif %}
+    <br>
+    {{ publication.authors }}
+    <br>
+    {{ publication.info }}
+    <br>
+    {% if publication.more_info %}
+    {{ publication.more_info }}
+    <br>
+    {% endif %}
+    {% if publication.award %}
+    <font color="#990033">{{ publication.award }}</font>
+    <br>
+    {% endif %}
+    <hr />
+  </li>
+  {% endfor %}
+
+  {% endfor %}
+</div>
+
+<script>
+  $(document).ready(toggle('data-time'));
+</script>

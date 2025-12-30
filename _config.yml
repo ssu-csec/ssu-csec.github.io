@@ -1,0 +1,20 @@
+title: The Laboratory of Security Engineering for Future Computing
+description: The Laboratory of Security Engineering for Future Computing
+
+
+baseurl: ""
+url: "https://sefcom.asu.edu"
+
+theme: minima
+
+repository: sefcom/sefcom.github.io
+
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
+
+include:
+  - assets/images_csec

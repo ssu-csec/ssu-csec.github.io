@@ -1,0 +1,625 @@
+/* ===== 레이아웃 점프/흰 여백 방지 기본 세팅 ===== */
+* { box-sizing: border-box; }
+html { overflow-y: scroll; }
+:root { scrollbar-gutter: stable both-edges; }
+html, body { margin: 0; padding: 0; }
+body { overflow-x: hidden; }
+
+/* 이미지가 컨테이너 너비를 넘지 않도록 */
+img, video, svg, canvas {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* 가로 넘침/흰 여백 방지 기본 */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body { overflow-x: hidden; }
+:root { scrollbar-gutter: stable both-edges; } /* 레이아웃 점프 방지(지원 브라우저) */
+
+/* 데스크톱: 2단 */
+.leftright {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+.leftright .left,
+.leftright .right {
+  flex: 1 1 0;
+  min-width: 0; /* 긴 단어/링크로 가로 넘침 방지 */
+}
+
+/* 왼쪽 큰 사진이 잘리지 않도록 고정 높이 제거 */
+.leftright .left img {
+  width: 100%;
+  height: auto;     /* 높이 자동 */
+  object-fit: contain; /* 혹시 height가 어딘가에 남아있다면 안전장치 */
+}
+
+/* 배경이미지일 때 (잘림 방지) */
+.bg-photo {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  /* 고정 높이가 필요하면 %/vw 등 유동 단위로, px 고정 금지 */
+}
+
+/* 100vw 사용했다면 100%로 교체 */
+.navbar { width: 100%; }
+
+/* 카드 래퍼가 내용을 자르지 않도록 */
+.professors-wrapper, .professor-section, .right { overflow: visible; }
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", "Segoe Ui", "Arial";
+    line-height: 1.4em;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+a {
+    color: #006e93;
+    text-decoration-color: #006e93;
+}
+
+#header {
+    background: rgba(0,0,0,0.03);
+}
+
+#header img {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.nav {
+    display: none;
+}
+
+#menu {
+    background: #02a6cb;
+}
+
+#menu ul {
+    list-style: none;
+    text-align: center;
+}
+
+#menu ul li {
+    margin-top: 0px;
+    padding: 20px;
+    display: inline-block;
+    font-weight: 500;
+}
+
+#menu ul li a {
+    padding: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+
+#menu ul li:hover {
+    background: rgba(0,0,0,0.2);
+}
+
+#menu ul li:hover a {
+    color: #fff;
+}
+
+.leftright {
+    display: flex;
+    gap: 20px;  
+    width: 100%;
+    margin-right: 100px;
+}
+
+.leftright .left {
+    width: 50%;
+    display: inline-block;
+}
+
+.leftright .right {
+    width: 40%;
+    line-height: 2em;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    margin-left: 2.5%;
+}
+
+.caption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #333;
+}
+
+.about .about_text span {
+    position: relative;
+    top: 30px;
+}
+
+.page-content {
+    position: relative;
+    min-height: 100vh;
+}
+
+.wrapper {
+    padding: 20px;
+    padding-bottom: 4.5rem;
+}
+
+.wrapper li {
+    margin: 20px;
+}
+
+.wrapper h1 {
+    font-size: 18pt;
+}
+
+.wrapper p {
+    margin: 10px;
+    line-height: 1.5em;
+}
+
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #02a6cb;
+    text-align: center;
+    padding-top: 1.0rem;
+    height: 3.0rem;
+}
+
+.sponsors {
+    margin-top: 50px;
+}
+
+.sponsors .sidemenu {
+    list-style: none;
+}
+
+.sponsors .sidemenu li {
+    display: inline-block;
+    padding: 12px;
+    vertical-align: middle;
+}
+
+.news {
+    margin-top: 40px;
+}
+
+.infobox ul li {
+    margin-top: 10px;
+}
+
+.infobox {
+    margin-top: 50px;
+}
+
+.infobox ul {
+    margin-left: 50px;
+    position: relative;
+    top: 10px;
+}
+
+blockquote {
+    margin: 20px;
+    background: rgba(0,0,0,0.05);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.publication {
+    margin: 40px !important;
+    position: relative;
+    left: 30px;
+}
+
+#publication h3 {
+    margin-top: 30px;
+    padding: 10px;
+    background: #02a6cb !important;
+}
+
+.backtotop {
+    background: #006e93;
+    color: #fff;
+    width: 100px;
+    height: 10px;
+    text-align: center;
+    z-index: +3;
+    padding: 10px;
+    vertical-align: top;
+    padding-bottom: 20px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    opacity: 0;
+}
+
+table {
+    width: 100%;
+}
+
+
+th {
+    background: #006e93;
+    color: #fff;
+    padding: 10px;
+}
+
+td {
+    padding: 20px;
+    border-top: 1px solid #006e93;
+    border-left: 1px solid #006e93;
+    border-right: 1px solid #006e93;
+    border-bottom: 2px solid #006e93;
+}
+
+.sefcom-logo {
+    vertical-align: top;
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+    position: relative;
+    top: 15px;
+}
+
+#header-links {
+    margin-bottom: 20px;
+    float: right;
+    margin-right: 125px;
+    margin-top: -10px;
+}
+
+.asu-logo {
+    width: 300px;
+    position: relative;
+    top: 10px;
+    float: right;
+}
+
+.logo-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 50px;
+}
+
+.left-logo img,
+.right-logo img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.right-logo {
+  text-align: right;
+}
+
+.left-logo-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -35px; 
+}
+
+.clear {
+    clear: both;
+}
+
+#anchors {
+    overflow-x: scroll;
+}
+
+@media screen and (max-width: 800px) {
+    .nav {
+        display: block;
+        text-align: center;
+        padding: 10px;
+        font-size: 20pt;
+        cursor: pointer;
+    }
+
+    #menu ul li {
+        display: block;
+    }
+
+    .sefcom-logo {
+        margin-left: 20px;
+        width: 150px;
+    }
+
+    .asu-logo {
+        position: relative;
+        top: 20px;
+        right: 10px;
+        width: 150px;
+    }
+
+    #header-links {
+        margin-top: 30px;
+    }
+
+    .leftright .left {
+        width: 100%;
+        display: block;
+    }
+    .leftright .right {
+        margin-top: 30px;
+        width: 100%;
+        display: block;
+        margin-left: 0%;
+    }
+}
+
+.ppl_container {
+    width: 100%;
+}
+.ppl_title {
+    margin-top: 50px;
+    font-size: 25pt !important;
+    margin-bottom: 30px;
+}
+.ppl_profile {
+    width: 200px !important;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: text-top;
+    color: #000;
+}
+.ppl_profile img {
+    border: 0;
+    width: 150px;
+    height: 150px;
+    background-image: url('/assets/images/no-image.jpg');
+    background-size: 150px;
+    padding: 0;
+    margin: 5px;
+    border-radius: 100%;
+}
+.ppl_profile span {
+    color: #006e93;
+    font-weight: bold;
+    display: block;
+}
+.ppl_profile a {
+    text-decoration: none;
+    color: #000;
+}
+.ppl_title {
+    display: block;
+    font-size: large;
+    font-weight: bold;
+    padding: 11px 22px 0;
+}
+
+.text_content {
+    width: 50%;
+    min-width: 800px;
+    margin: auto;
+    margin-top: 20px;
+}
+.text_content h1 {
+    color: #006e93;
+}
+
+/* index - 교수님 카드섹션 */
+.professors-wrapper {
+    display: flex;   /* 가로 중앙 정렬 */
+    align-items: flex-start;    /* 세로 상단 정렬 */
+    /*gap: 20px;                  /* 카드 사이 간격 */
+    margin-top: -20px;
+    margin-bottom: -20px; 
+}
+
+/* 교수님 카드 공통 */
+.professor-section {
+    width: 365px;               /* 카드 너비 */
+    height: 230px;              /* 카드 높이 */
+    display: flex;
+    flex-direction: row;        /* 좌/우 정렬 */
+    align-items: stretch;       /* 이미지와 텍스트 박스 높이 동일 */
+    background: #ffffff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+/* 사진 영역 */
+.professor-photo {
+    flex: 1;                    /* 카드 너비의 절반 */
+    height: 100%;               /* 카드 높이에 맞춤 */
+    object-fit: cover;          /* 비율 유지하며 잘라내기 */
+    display: block;
+}
+
+/* 텍스트 박스 영역 */
+.professor-info {
+    flex: 1;                    /* 카드 너비의 절반 */
+    background: #006e93;
+    color: #ffffff;
+    padding: 30px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    /* 세로 중앙 정렬 */
+}
+.professor-info h3 {
+    margin: 0 0 10px;
+    font-size: 21px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.professor-info p {
+    margin: 6px 0;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.professor-link {
+  text-decoration: none;  /* 밑줄 제거 */
+  color: inherit;         /* 링크 색상 유지 */
+  display: inline-block;  /* 블록처럼 감싸기 */
+}
+
+.professor-link:hover .professor-section {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+  transition: 0.2s ease-in-out;
+}
+
+.projects-body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f7fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.projects-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.projects-title {
+  font-size: 2.5rem;
+  color: #000000;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+.projects-lab-name {
+  font-size: 1rem;
+  color: #5f6368;
+  margin-top: 0;
+}
+
+.projects-subtitle {
+  font-size: 1.75rem;
+  color: #006e93;
+  margin: 40px 0 16px;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 4px;
+}
+
+.projects-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Remove all vertical borders and default alignment */
+.projects-table th,
+.projects-table td {
+  border: none;
+  padding: 12px 10px;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.projects-table thead th {
+  background-color: #02a6cb;
+  color: #fff;
+  text-align: left;
+  border-bottom: 2px solid #02a6cb;
+}
+
+/* Horizontal lines for rows only */
+.projects-table tbody tr {
+  border-bottom: 1px solid #006e93;
+}
+
+/* Row background stripes */
+.projects-table tbody tr:nth-child(even) td {
+  background-color: #f1faff;
+}
+.projects-table tbody tr:nth-child(odd) td {
+  background-color: #fff;
+}
+
+/* Center specific body columns: No., Program, Funding Source, Duration */
+.projects-table tbody td:nth-child(1),
+.projects-table tbody td:nth-child(3),
+.projects-table tbody td:nth-child(4),
+.projects-table tbody td:nth-child(5) {
+  text-align: center;
+}
+
+/* Ensure Title column remains left-aligned */
+.projects-table tbody td:nth-child(2) {
+  text-align: left;
+}
+
+/* ===== Desktop/Mobile 확정 레이아웃 오버라이드 (맨 아래에 두세요) ===== */
+
+/* 데스크탑(>900px): 예전처럼 가로 카드, 두 장 나란히 */
+@media (min-width: 901px) {
+  .professors-wrapper{
+    display: flex !important;
+    flex-wrap: wrap !important;     /* 줄바꿈 허용 */
+    gap: 20px !important;
+    align-items: flex-start !important;
+    margin: 16px 0 !important;
+  }
+  .professor-link{ display: block !important; }
+  .professor-section{
+    display: flex !important;
+    flex-direction: row !important; /* 가로 배치 */
+    align-items: stretch !important;
+    width: auto !important;
+    max-width: 340px !important;    /* 필요시 360~380px로 줄이면 더 예전 느낌 */
+    height: auto !important;
+    overflow: visible !important;   /* 잘림 방지 */
+  }
+  .professor-photo{
+    width: 45% !important;          /* 좌측 사진 영역 */
+    height: auto !important;
+    object-fit: contain !important;  /* 자르지 않음(원하면 cover로 변경 가능) */
+    display: block !important;
+  }
+  .professor-info{
+    flex: 1 1 0 !important;
+    padding: 30px 15px !important;
+  }
+}
+
+/* 모바일(<=900px): 세로(사진 위, 텍스트 아래) */
+@media (max-width: 900px) {
+  /* 래퍼를 ‘세로 플렉스’로 → 자식 카드들이 1장씩 꽉 차게 */
+  .professors-wrapper{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+
+  /* 카드 자체도 플렉스-컬럼으로 고정 + max-width 완전 해제 */
+  .professor-section{
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    max-width: none !important;    /* ← 핵심: 잔존 max-width(680px 등) 무력화 */
+  }
+  .professor-photo{
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;  /* 절대 자르지 않기 */
+  }
+  .professor-info{ padding: 16px !important; }
+}
+
+
+
+
+
+
