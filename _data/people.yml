@@ -20,9 +20,6 @@
   - name: Minho Kim
     image: /assets/images_csec/phd_students/Minho_Kim.jpg
 
-  - name: Younghun Ban
-    image: /assets/images_csec/phd_students/Younghun_Ban.jpg
-
   - name: Dongho Lee
     image: /assets/images_csec/phd_students/Dongho_Lee.png
 
@@ -292,3 +289,9 @@
     subtitle: 
     email: daegyoem88@gmail.com
     image: /assets/images_csec/MS_Students/Daegyeom_Kim.jpg
+
+  - name: Younghun Ban
+    title:
+    subtitle: 
+    email: dudgns9601@gmail.com
+    image: /assets/images_csec/phd_students/Younghun_Ban.jpg
