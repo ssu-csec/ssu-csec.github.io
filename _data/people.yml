@@ -38,6 +38,9 @@
   - name: Dongwoo Kim
     image: /assets/images_csec/ms_students/DongWoo_Kim.jpg
 
+  - name: Jisoo Kim
+    image: /assets/images_csec/bs_students/Jisoo_Kim.jpg
+
 - group: Undergraduate Students
   members:
 
@@ -47,20 +50,11 @@
   - name: Suraksha
     image: /assets/images_csec/bs_students/Suraksha.jpg
 
-  - name: Geonhee Lee
-    image: /assets/images_csec/bs_students/Geonhee_Lee.jpg
-
-  - name: Hyeok Jang
-    image: /assets/images_csec/bs_students/Hyeok_Jang.jpg
-
   - name: Jisun Han
     image: /assets/images_csec/bs_students/Jisun_Han.jpg
 
   - name: Mirae Yim
     image: /assets/images_csec/bs_students/Mirae_Yim.jpg
-
-  - name: Jisoo Kim
-    image: /assets/images_csec/bs_students/Jisoo_Kim.jpg
 
 - group: Interns
   members:
