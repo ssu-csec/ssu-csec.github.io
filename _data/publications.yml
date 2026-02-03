@@ -53,7 +53,7 @@
       type: Journal
 
     - title: "Hybrid Dynamic Analysis for Android Malware Protected by Anti-Analysis Techniques with DoolDA"
-      authors: "Sunjun Lee, YongGu Shin, Minseong Choi, Heahyun Jo, Jeong Hyun Yi"
+      authors: "Sunjun Lee, YongGu Shin, Minseong Choi, Haehyun Jo, Jeong Hyun Yi"
       info: "Journal of Internet Technology (ISSN: 195-213), Vol.25, No.2"
       time: 202403
       venue: "Journal of Internet Technology"
@@ -61,7 +61,7 @@
       type: Journal
 
     - title: "An Empirical Study on the Effectiveness of Adversarial Examples in Malware Detection"
-      authors: "Young Hun Ban, Myeonghyun Kim, Heahyun Jo"
+      authors: "Young Hun Ban, Myeonghyun Kim, Haehyun Jo"
       info: "Computational Memory Lab (ISSN: 3535-3563), Vol.139, No.3"
       time: 202403
       venue: "Computational Memory Lab"
@@ -77,7 +77,7 @@
       type: Conferences
 
     - title: "Satellite: Effective and Efficient Stack Memory Protection Scheme for Unsafe Programming Languages"
-      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, HeaHyun Jo, Dong Hoon Lee"
+      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, HaeHyun Jo, Dong Hoon Lee"
       info: "IFIP Information Security Conference &‌ Privacy Conference"
       time: 202406
       venue: "IFIP Security &‌ Privacy Conference"
@@ -127,7 +127,7 @@
       type: Journal
 
     - title: "SMINER: Detecting Unrestricted and Misimplemented Behaviors of Software Systems Based on Unit Test Cases"
-      authors: "Kyungmin Sim, Sunjun Lee, Geochang Jeon, Jeong Hyun Yi, Heahyun Cho"
+      authors: "Kyungmin Sim, Sunjun Lee, Geochang Jeon, Jeong Hyun Yi, Haehyun Cho"
       info: "Computers, Materials & Continua (ISSN: 1546-2218), Vol.75, No.2, pp.3257-3274"
       time: 202303
       venue: "Computers, Materials & Continua"
@@ -151,7 +151,7 @@
       type: Journal
 
     - title: "Poster: De-obfuscation System for Obfuscation Techniques based on Trampoline Code"
-      authors: "Minho Kim, Jeong Hyun Yi, Heahyun Cho"
+      authors: "Minho Kim, Jeong Hyun Yi, Haehyun Cho"
       info: "MobiSec 2023 (The 7th International Conference on Mobile Internet Security)"
       time: 202312
       venue: "MobiSec 2023"
@@ -159,7 +159,7 @@
       type: Conferences
 
     - title: "HW 보안 모듈을 활용한 탬퍼링 대응 기술의 검증 및 평가 방안 조사"
-      authors: "DongHo Lee, Young Hun Ban, Lim Jae Duk, HeaHyun Jo"
+      authors: "DongHo Lee, Young Hun Ban, Lim Jae Duk, HaeHyun Jo"
       info: "KCI 정보보호학회 논문지 (ISSN: 1598-3986), Volume 34 Issue 2, pp.335-345, Dec. 2023"
       time: 202312
       venue: "KCI 정보보호학회 논문지"
