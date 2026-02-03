@@ -163,7 +163,7 @@
       venue: "한국정보보호학회 하계학술대회"
       topic: "VirusTotal and Evasion"
       type: Conferences
-      
+
 - year: 2023
   publications:
     - title: "FIDS: Filtering-Based Intrusion Detection System for In-Vehicle CAN"
@@ -206,6 +206,14 @@
       topic: "Phishing Detection and Web Fraud"
       type: Conferences
 
+    - title: "Poster: De-obfuscation System for Obfuscation Techniques based on Trampoline Code"
+      authors: "Minho Kim, Jeong Hyun Yi, Haehyun Cho"
+      info: "MobiSec 2023 (The 7th International Conference on Mobile Internet Security)"
+      time: 202312
+      venue: "MobiSec 2023"
+      topic: "Code Deobfuscation"
+      type: Conferences
+
     - title: "HW 보안 모듈을 활용한 탬퍼링 대응 기술의 검증 및 평가 방안 조사"
       authors: "DongHo Lee, Young Hun Ban, Lim Jae Duk, HaeHyun Cho"
       info: "KCI 정보보호학회 논문지 (ISSN: 1598-3986), Volume 34 Issue 2, pp.335-345, Dec. 2023"
@@ -229,14 +237,6 @@
       venue: "한국통신학회지(정보와통신)"
       topic: "Web Tracking Detection"
       type: Journal
-
-    - title: "Poster: De-obfuscation System for Obfuscation Techniques based on Trampoline Code"
-      authors: "Minho Kim, Jeong Hyun Yi, Haehyun Cho"
-      info: "MobiSec 2023 (The 7th International Conference on Mobile Internet Security)"
-      time: 202312
-      venue: "MobiSec 2023"
-      topic: "Code Deobfuscation"
-      type: Conferences
 
     - title: "웹상 추적 및 행태정보 수집 행위 탐지를 위한 자바스크립트 정적 오염 분석기 설계"
       authors: "허호녕, 전지환, 심경민, 김대겸, 조해현"
@@ -1022,20 +1022,20 @@
 
 - year: 2015
   publications:
-    - title: "The Endpoint Application Execution Control Scheme Based on the Whitelist"
-      authors: "Chang Hong Kim, Jeong Hyun Yi, Jong Bae Kim"
-      info: "International Journal of Control and Automation (ISSN: 2005-4297), Vol.8, No.4, pp.83-88"
-      time: 201504
-      venue: "International Journal of Control and Automation"
-      topic: "Execution Control and Whitelist"
-      type: Journal
-
     - title: "Personal Information Leaks with Automatic Login in Mobile Social Network Services"
       authors: "Jongwon Choi, Haehyun Cho, Jeong Hyun Yi"
       info: "Entropy Journal (ISSN: 1099-4300), Vol.17, No.6, pp.3947-3962"
       time: 201506
       venue: "Entropy"
       topic: "Privacy Leaks and Mobile SNS"
+      type: Journal
+
+    - title: "The Endpoint Application Execution Control Scheme Based on the Whitelist"
+      authors: "Chang Hong Kim, Jeong Hyun Yi, Jong Bae Kim"
+      info: "International Journal of Control and Automation (ISSN: 2005-4297), Vol.8, No.4, pp.83-88"
+      time: 201504
+      venue: "International Journal of Control and Automation"
+      topic: "Execution Control and Whitelist"
       type: Journal
 
     - title: "Account Forgery and Privilege Escalation Attacks on Android Home Cloud Devices"
@@ -1206,6 +1206,14 @@
       topic: "NFC Security and Mobile Wallet"
       type: Journal
 
+    - title: "스마트워크 보안 위협과 대책"
+      authors: "이형찬, 이정현, 손기욱"
+      info: "정보보호학회지, Vol.21 No.3, pp.12-21, May 2011"
+      time: 201105
+      venue: "정보보호학회지"
+      topic: "Smart Work Security and Threat Analysis"
+      type: Journal
+
     - title: "윈도우 CE 기반 스마트폰의 SMS 관리 취약점 분석"
       authors: "정진혁, 이형찬, 이정현"
       info: "한국정보과학회 논문지: 정보통신, Volume 38 Issue 2, pp.147-156, Apr. 2011"
@@ -1228,14 +1236,6 @@
       time: 201101
       venue: "한국정보과학회 논문지: 컴퓨팅의 실제 및 레터"
       topic: "RFID Authentication and Passive Tag"
-      type: Journal
-
-    - title: "스마트워크 보안 위협과 대책"
-      authors: "이형찬, 이정현, 손기욱"
-      info: "정보보호학회지, Vol.21 No.3, pp.12-21, May 2011"
-      time: 201105
-      venue: "정보보호학회지"
-      topic: "Smart Work Security and Threat Analysis"
       type: Journal
 
 - year: 2010
@@ -1264,20 +1264,20 @@
       topic: "IPTV Authentication and CAS Protocol"
       type: Journal
 
-    - title: "모바일 지갑을 위한 스마트 채널 보안 기술 동향"
-      authors: "마건일, 이형찬, 기현식, 최대선, 진승헌, 이정현"
-      info: "한국정보과학회 종합학술대회(KCC'10), Vol.37 No.1-D, pp.95-100, Jun. 2010"
-      time: 201006
-      venue: "KCC 2010"
-      topic: "Smart Wallet and Security"
-      type: Conferences
-
     - title: "ARM기반 리눅스 커널에서 시스템콜 인터셉트 공격 (우수논문)"
       authors: "이형찬, 김충희, 이정현"
       info: "한국정보과학회 추계학술발표회, 제37권 제2호, pp.88-89, Nov. 2010"
       time: 201011
       venue: "한국정보과학회 추계학술발표회"
       topic: "System Call Interception and Kernel Attacks"
+      type: Conferences
+
+    - title: "모바일 지갑을 위한 스마트 채널 보안 기술 동향"
+      authors: "마건일, 이형찬, 기현식, 최대선, 진승헌, 이정현"
+      info: "한국정보과학회 종합학술대회(KCC'10), Vol.37 No.1-D, pp.95-100, Jun. 2010"
+      time: 201006
+      venue: "KCC 2010"
+      topic: "Smart Wallet and Security"
       type: Conferences
 
     - title: "수동형 태그를 활용한 경량 모바일 RFID 인증 프로토콜 설계"
@@ -1384,22 +1384,6 @@
       topic: "Distributed Security and SESAME"
       type: Conferences
 
-    - title: "EDI정보보호시스템의 구조 및 서비스 환경 분석"
-      authors: "이정현, 윤이중, 이대기, 김대호"
-      info: "한국정보보호학회 학회지, Vol.7 No.3, pp.99-121, Sep. 1997"
-      time: 199709
-      venue: "한국정보보호학회 학회지"
-      topic: "EDI Security and System Analysis"
-      type: Conferences
-
-    - title: "CALS 체제의 정보보호 프레임워크"
-      authors: "신종태, 이정현, 이대기, 소우영"
-      info: "한국정보보호학회 학회지, Vol.7 No.3, pp.53-76, Sep. 1997"
-      time: 199709
-      venue: "한국정보보호학회 학회지"
-      topic: "CALS Security Framework"
-      type: Conferences
-
     - title: "안전한 EDI 시스템의 구현"
       authors: "윤이중, 이정현, 이대기, 김대호"
       info: "한국정보보호학회 학술대회(CISC-W'97), Vol.7 No.1, pp.439-459, Nov. 1997"
@@ -1414,6 +1398,22 @@
       time: 199711
       venue: "CISC-W'97"
       topic: "CALS Security Model"
+      type: Conferences
+
+    - title: "EDI정보보호시스템의 구조 및 서비스 환경 분석"
+      authors: "이정현, 윤이중, 이대기, 김대호"
+      info: "한국정보보호학회 학회지, Vol.7 No.3, pp.99-121, Sep. 1997"
+      time: 199709
+      venue: "한국정보보호학회 학회지"
+      topic: "EDI Security and System Analysis"
+      type: Conferences
+
+    - title: "CALS 체제의 정보보호 프레임워크"
+      authors: "신종태, 이정현, 이대기, 소우영"
+      info: "한국정보보호학회 학회지, Vol.7 No.3, pp.53-76, Sep. 1997"
+      time: 199709
+      venue: "한국정보보호학회 학회지"
+      topic: "CALS Security Framework"
       type: Conferences
 
     - title: "SESAME V4 분석"
