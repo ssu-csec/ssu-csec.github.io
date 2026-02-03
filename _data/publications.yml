@@ -53,7 +53,7 @@
       type: Journal
 
     - title: "Hybrid Dynamic Analysis for Android Malware Protected by Anti-Analysis Techniques with DoolDA"
-      authors: "Sunjun Lee, YongGu Shin, Minseong Choi, Haehyun Jo, Jeong Hyun Yi"
+      authors: "Sunjun Lee, YongGu Shin, Minseong Choi, Haehyun Cho, Jeong Hyun Yi"
       info: "Journal of Internet Technology (ISSN: 195-213), Vol.25, No.2"
       time: 202403
       venue: "Journal of Internet Technology"
@@ -61,7 +61,7 @@
       type: Journal
 
     - title: "An Empirical Study on the Effectiveness of Adversarial Examples in Malware Detection"
-      authors: "Young Hun Ban, Myeonghyun Kim, Haehyun Jo"
+      authors: "Young Hun Ban, Myeonghyun Kim, Haehyun Cho"
       info: "Computational Memory Lab (ISSN: 3535-3563), Vol.139, No.3"
       time: 202403
       venue: "Computational Memory Lab"
@@ -69,7 +69,7 @@
       type: Journal
 
     - title: "DryJIN: Detecting Information Leaks in Android Applications"
-      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, Hae Hyun Jo, Dong Hoon Lee"
+      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, Hae Hyun Cho, Dong Hoon Lee"
       info: "IFIP Information Security &‌ Privacy Conference &‌ Privacy Conference"
       time: 202406
       venue: "IFIP Security &‌ Privacy Conference"
@@ -77,7 +77,7 @@
       type: Conferences
 
     - title: "Satellite: Effective and Efficient Stack Memory Protection Scheme for Unsafe Programming Languages"
-      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, HaeHyun Jo, Dong Hoon Lee"
+      authors: "Hong Joo Jin, Su Min Yang, Moon Chan Park, HaeHyun Cho, Dong Hoon Lee"
       info: "IFIP Information Security Conference &‌ Privacy Conference"
       time: 202406
       venue: "IFIP Security &‌ Privacy Conference"
@@ -119,7 +119,7 @@
       type: Conferences
 
     - title: "FIDS: Filtering-Based Intrusion Detection System for In-Vehicle CAN"
-      authors: "Seungmin Lee, Hyunghoon Kim, Haehyun Cho, Hyojin Jo"
+      authors: "Seungmin Lee, Hyunghoon Kim, Haehyun Cho, Hyojin Cho"
       info: "Intelligent Automation & Soft Computing (ISSN: 1079-8587), Vol.37, No.3, pp.2941-2954"
       time: 202309
       venue: "Intelligent Automation & Soft Computing"
@@ -159,7 +159,7 @@
       type: Conferences
 
     - title: "HW 보안 모듈을 활용한 탬퍼링 대응 기술의 검증 및 평가 방안 조사"
-      authors: "DongHo Lee, Young Hun Ban, Lim Jae Duk, HaeHyun Jo"
+      authors: "DongHo Lee, Young Hun Ban, Lim Jae Duk, HaeHyun Cho"
       info: "KCI 정보보호학회 논문지 (ISSN: 1598-3986), Volume 34 Issue 2, pp.335-345, Dec. 2023"
       time: 202312
       venue: "KCI 정보보호학회 논문지"
