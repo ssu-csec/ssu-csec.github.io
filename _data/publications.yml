@@ -1,5 +1,31 @@
 # 순서 : international (journal - conferences) - domestic ((journal - conferences))순
 
+- year: 2026
+  publications:
+    - title: "RAVEN: Measuring Detection Instability in Anti-virus Engines under Semantics-Preserving Perturbations"
+      authors: "Younghoon Ban, Beomjin Jin, Doowon Kim, Hyoungshick Kim, Haehyun Cho"
+      info: "The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), Munich, Germany"
+      time: 202610
+      venue: "ASE"
+      topic: "Anti-virus Evaluation · Semantics-Preserving Perturbation"
+      type: Conferences
+
+    - title: "Legible but Not Localized: Jailbreak Geometry in Mixture-of-Experts Language Models Is Attack-Specific"
+      authors: "Yubin Im, Myeonghyun Kim, Seongmin Kim, Haehyun Cho"
+      info: "The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Budapest, Hungary"
+      time: 202610
+      venue: "EMNLP"
+      topic: "LLM Safety · Mixture-of-Experts"
+      type: Conferences
+
+    - title: "Bridge Routing Heads: Where Multilingual Multi-hop Reasoning Lives in LLMs"
+      authors: "Seunghan Kim, Minyeong Choe, Hyunil Kim, Haehyun Cho"
+      info: "The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Budapest, Hungary"
+      time: 202610
+      venue: "EMNLP"
+      topic: "LLM Interpretability · Multilingual Reasoning"
+      type: Conferences
+
 - year: 2025
   publications:
     - title: "Hephaistos: A Data Flow Analysis Framework for Identifying Browser Fingerprinting Functions in JavaScript"
